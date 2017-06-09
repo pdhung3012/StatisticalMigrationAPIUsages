@@ -1,0 +1,600 @@
+System.SystemException#ret System.SystemException.new System.String#arg
+System.Boolean.new
+System.Int32.new System.Int32#ret System.Int32[]#rec System.Int32[]#acc System.Int32#arg System.Int32#ret System.Array#rec System.Array.Length System.Void#ret System.Array#rec System.Array.Copy System.Int32[]#arg System.Int32#arg System.Int32#ret System.Array#rec System.Array.Length System.Int32.new System.Int32#ret System.Int32[]#rec System.Int32[]#acc System.Int32#arg System.Int32#arg System.Int32#ret System.Int32[]#rec System.Int32[]#acc System.Int32#arg System.Text.StringBuilder#rec System.Text.StringBuilder#ret System.Text.StringBuilder.new System.Text.StringBuilder#ret System.Text.StringBuilder#rec System.Text.StringBuilder.Append System.String#arg System.Text.StringBuilder#rec System.Text.StringBuilder.Append System.String#arg System.Text.StringBuilder.Append System.String#arg System.Text.StringBuilder.ToString System.Text.StringBuilder#rec System.Text.StringBuilder.Append System.String#arg System.String#ret System.Text.StringBuilder#rec
+System.Boolean.new
+System.String.new System.String.new System.String[]#rec System.String[].new
+System.Int32#ret System.Collections.ArrayList#rec System.Collections.ArrayList.Count if System.Int32#rec System.Collections.Generic.List#rec System.Collections.Generic.List#acc System.Int32#arg for for
+if System.Int32#rec System.Int32.new System.String#ret System.Convert#rec System.Convert.ToString System.Int32#arg
+null.new else
+null#rec null.new null.new null.new null.new
+null.new null.new System.IO.FileNotFoundException#ret System.IO.FileNotFoundException.new System.String#arg throw if System.Boolean#ret System.Collections.IDictionary#rec System.Collections.IDictionary.Contains System.String#arg System.Object#ret System.Collections.IDictionary#rec System.Collections.IDictionary#acc System.String#arg System.Int32#arg System.Int32#ret System.Int32#rec System.Int32.MinValue System.Int32#rec System.Int32.new System.Object#ret System.Collections.Hashtable#rec System.Collections.Hashtable#acc System.Int32#arg if System.Object#ret System.Collections.Hashtable#rec System.Collections.Hashtable#acc
+if System.Int32#rec
+null.new System.Boolean.new if if if System.Boolean.new System.Boolean.new if while System.Boolean.new while System.Boolean.new System.Int32.new if System.Int32.new System.Boolean.new System.Boolean.new null.new if System.Boolean.new System.Boolean.new if while
+for System.Int32#rec System.Void#ret System.Array#rec System.Array.Copy System.Int32[]#arg System.Int32#arg System.Text.Encoding#rec System.Text.Encoding.UTF8 System.String#ret System.String.new System.Char[]#arg System.Int32.new for System.Byte#ret System.Int32#arg System.Byte[]#ret System.Text.Encoding#rec System.Text.Encoding.GetBytes System.String#arg System.Int32.new System.Char#ret System.Char[]#rec System.Char[]#acc System.Int32#arg
+System.Int32.new System.Int32.new System.Int32.new System.String#rec System.String.new
+System.Boolean#ret System.Collections.IDictionary#rec System.Collections.IDictionary.Contains System.String#arg
+System.Int32.new System.Int32#ret System.Array#rec System.Array.Length System.String.new System.String#ret System.String#ret System.String#ret System.Int32.new System.Int32.new else System.String#ret System.Globalization.CompareInfo#arg System.Boolean.new if
+null.new System.String.new else System.String#arg System.String.IndexOf System.String#arg System.Int32.new System.Boolean.new else System.String#arg System.Collections.Generic.List#ret System.Collections.Generic.List.new System.Void#ret System.Collections.Generic.List#rec System.Collections.Generic.List.Add
+System.Boolean.new System.Boolean.new if while System.Boolean.new System.Int32#rec System.Int32.new for for while if System.Boolean.new System.Boolean.new if System.Boolean.new
+null.new null.new if if
+System.Void#ret System.Array#rec System.Array.Copy System.Int32[]#arg System.Int32#arg
+System.Console.Out System.String.new System.Void#ret System.IO.TextWriter#rec System.IO.TextWriter.WriteLine System.Int32.new System.String.new System.String.new System.Int32#ret System.String#arg System.Collections.IEnumerator#ret System.Collections.Generic.ICollection#rec System.Collections.Generic.ICollection.Count System.Void#ret System.Console#rec System.Console.WriteLine System.Collections.IEnumerator.MoveNext System.Collections.Generic.IEnumerable#rec System.Collections.Generic.IEnumerable.GetEnumerator System.Boolean#ret System.Collections.IEnumerator#rec System.Char[]#rec System.Char[].new System.String#ret System.String.new System.Char[]#arg System.Object#ret System.Collections.IEnumerator#rec System.Collections.IEnumerator.Current System.Int32.new System.Int32#ret System.Int32[]#rec System.Int32[]#acc System.Int32#arg System.Int32#arg for System.Void#ret System.Console#rec System.Console.WriteLine null.new System.Int32#ret System.Collections.Generic.ICollection#rec System.Collections.Generic.ICollection.Count else
+null.new null.new System.Boolean.new if System.Boolean#ret
+null.new
+System.IO.FileInfo#ret System.IO.FileInfo.new System.String#arg
+System.Object#ret System.Boolean.new else if while System.Boolean.new System.Void#ret System.Array#rec System.Array.Copy System.Int32[]#arg System.Int32#arg System.Array#rec System.Array.Length System.Int32#ret System.Int32[]#rec System.Int32[]#acc System.Object#ret System.Collections.Hashtable#rec System.Collections.Hashtable#acc
+System.String#ret System.Object#rec System.Object.ToString
+System.String#ret System.Int32.new System.Int32#rec System.Int32.new System.String#rec System.String.new System.Char.ToString System.String.new System.IO.FileInfo#ret System.IO.FileInfo.new System.String#arg
+null.new System.String.new
+System.Int32.new for System.Int32.new System.Int32.new System.Int32.new System.Boolean#ret
+System.Int32.new System.Int32#ret System.Array#rec System.Array.Length System.String.new
+System.Diagnostics.StackTrace#ret System.Diagnostics.StackTrace.new System.Diagnostics.StackFrame[]#ret System.Diagnostics.StackFrame[]#acc System.Diagnostics.StackTrace#rec System.Diagnostics.StackTrace.GetFrames System.String.new System.Reflection.MethodBase#ret System.Diagnostics.StackFrame#rec System.Int32#arg System.Diagnostics.StackFrame[]#acc System.String.Equals System.String#arg System.String.new System.Diagnostics.StackFrame#ret System.Diagnostics.StackFrame[]#rec System.String#ret System.Reflection.MemberInfo#rec System.Reflection.MemberInfo.Name System.Int32.new System.Int32#rec System.Int32.new System.String#rec System.String.new System.IO.IOException#ret System.IO.IOException.new
+System.Int32#ret System.String[]#arg System.Int32.new if System.Array#ret System.Collections.ArrayList#rec System.Collections.ArrayList.ToArray
+System.Text.StringBuilder#rec if for null.new if System.Char#ret System.Void#ret System.Array#rec System.Array.Copy System.Int32[]#arg System.Int32#arg System.Text.StringBuilder#acc System.Int32#arg System.Char#ret System.String#rec System.String#acc
+System.TimeSpan#arg if System.IO.FileInfo#ret System.IO.FileInfo.new System.String#arg
+System.Collections.Generic.IEnumerator#ret System.Collections.Generic.IEnumerable#rec System.Collections.Generic.IEnumerable.GetEnumerator System.Boolean#ret System.Int32#rec System.Int32.new for for while System.Collections.IEnumerator#rec System.Collections.IEnumerator.MoveNext System.Object#ret System.Collections.IEnumerator#rec System.Collections.IEnumerator.Current System.Boolean#ret System.Collections.Hashtable#rec System.Collections.Hashtable.Contains System.String#arg null.new System.Boolean#ret System.Threading.Monitor#rec System.Threading.Monitor.Wait System.Collections.Generic.ICollection#rec System.Collections.Generic.ICollection.Contains System.String#arg
+System.Int32.new System.Int32#ret System.Collections.ArrayList#rec System.Collections.ArrayList.Count System.Array#ret System.Collections.ArrayList#rec System.Collections.ArrayList.ToArray System.Type#arg
+if System.Int32#rec System.Int32#ret System.Array#rec System.Array.Length System.Int32#arg System.Single#ret System.Single[]#rec System.Single[]#acc System.Int32#arg
+if System.Int32#rec System.Int32.new System.String#ret System.String[]#rec System.String[]#acc System.Int32#arg
+System.String#ret if System.Int32#rec System.Int32.new System.Int32#ret System.Array#rec System.Array.Length System.String#ret System.Int32.new System.Int32#ret System.Array#rec System.Array.Length System.String#ret
+System.String#ret System.Int32.new System.Int32#rec System.Int32.new System.String#rec System.String.new System.Char.ToString System.String.new System.IO.FileInfo#ret System.IO.FileInfo.new System.String#arg System.IO.FileSystemInfo#rec System.IO.FileSystemInfo.FullName System.Boolean#ret System.IO.File#rec System.IO.File.Exists
+System.Int32#ret null.new System.Int32#rec System.Int32#arg System.Int32#ret System.Int32[]#rec System.Int32[]#acc System.Int32#arg
+System.Int32#rec System.Int32.new System.Int32#ret System.Random#rec System.Random.Next System.String#ret System.Convert#rec System.Convert.ToString System.Int32#arg for
+null.new System.IO.IOException#ret System.IO.IOException.new System.String#arg System.Int32#ret System.Random#rec System.Random.Next
+if for System.IO.FileInfo#ret System.IO.FileInfo.new System.String#arg System.IO.FileSystemInfo#rec System.IO.FileSystemInfo.FullName System.String[]#ret System.IO.Directory#rec System.IO.Directory.GetFileSystemEntries System.Array.Length System.String#ret System.String[]#rec System.String[]#acc System.Int32#arg System.String#arg System.String#arg System.IO.FileInfo#ret System.IO.FileInfo.new System.IO.Directory#rec System.IO.Directory.Delete
+null.new
+System.DateTime#ret System.DateTime#rec System.DateTime.Now System.Void#ret System.Threading.Thread#rec System.IO.TextWriter#ret System.Console#rec System.Console.Out System.Threading.Thread#ret System.Threading.Thread#rec else if System.TimeSpan#ret System.TimeSpan#rec System.TimeSpan.FromMilliseconds System.Console#rec System.Console.Error System.String#ret System.Exception#rec System.Exception.StackTrace
+null.new System.Int32#arg System.Int32.new System.String.new System.String.new throw if System.Byte#ret
+System.ArgumentException#ret System.ArgumentException.new System.String#arg throw else
+System.IO.StringReader#ret System.IO.StringReader.new System.Int32#arg for System.Void#ret System.Console#rec System.Console.WriteLine System.String.new System.Void#ret System.IO.TextWriter#rec System.IO.TextWriter.WriteLine System.String#arg
+null.new
+System.String#arg throw System.Boolean.new System.IO.IOException#ret System.IO.IOException.new System.String.new if else if if System.IO.IOException#ret System.IO.IOException.new System.String#arg
+System.Int32.new System.Int32#rec System.Int32.new System.String#rec System.String.new
+else if System.Int32#rec System.Int32.new System.Int32#rec
+System.Collections.ArrayList#ret System.Collections.ArrayList.new System.Int32#arg System.Int32#arg System.Int32.new System.Object#ret System.Object[]#rec System.Object[]#acc System.Int32#arg System.Int32#ret System.Collections.ArrayList#rec System.Collections.ArrayList.Add System.Object#arg while System.Int32#ret System.Collections.ArrayList#rec System.Collections.ArrayList.Count System.String[]#arg System.String[]#rec System.String[].new System.Array#ret System.Collections.ArrayList#rec System.Collections.ArrayList.ToArray
+System.String.new System.String.new System.String.new System.String[]#rec System.String[].new System.Int32#arg System.Int32#arg System.Int32#arg System.Int32#arg
+if System.Int32#rec System.Int64#rec System.Int64.MaxValue System.Int32.new System.Int32.new for
+else if if else if null.new if if
+System.String[]#rec System.String[].new System.Array.Length System.String#ret System.String[]#rec System.String[]#acc System.Int32#arg
+if
+if System.Int32#rec
+null.new System.Int32#ret System.Random#rec System.Random.Next
+System.NotSupportedException#ret System.NotSupportedException.new
+else if if else if
+System.TimeSpan#arg if
+java.lang.Throwable.getCause if if null.new System.String#ret System.Exception#rec System.Int32#rec
+System.Int32.new System.Int32#ret System.Array#rec System.Array.Length System.String.new
+System.Object#ret System.Collections.IDictionary#rec System.Collections.IDictionary#acc System.String#arg
+System.Boolean.new if while System.Boolean.new while
+System.Int32#ret if System.String#rec System.String.Length System.Int32#ret System.String#rec System.String.Length System.String#ret System.String#rec System.String.Substring System.Int32#arg System.Int32#arg
+else if if else if
+System.Array.Length System.Int64#ret System.Int64[]#rec System.Int64[]#acc System.Int32#arg
+System.Array.Length System.Char[]#rec System.Char[].new System.Int32[]#rec System.Int32[].new
+System.Int32.new System.Int32.new if System.Boolean.new System.Boolean.new System.Int32#rec System.Int32.new for for while if if if if System.Boolean.new System.Int32#rec System.Int32.new for for while if if if if System.Boolean.new
+if System.Int32#rec null#rec
+java.lang.Character.isWhitespace System.Char#arg System.Boolean#ret System.Char#rec
+if System.Int32#rec System.Int32#ret System.Int32.new System.Int32#ret System.Random#rec System.Random.Next System.Int32#arg System.Collections.BitArray.new System.Int32#arg System.Random#rec System.Random.Next System.Int32#arg System.Collections.BitArray#ret null.new System.Int32.new System.Int32#ret System.Random#rec System.Random.Next System.Int32#arg System.Int32.new System.Int32.new System.Int32#ret System.Collections.BitArray#rec System.Boolean#ret System.Collections.BitArray#rec System.Collections.BitArray.Get System.Int32#arg System.Collections.BitArray.Count if System.Void#ret System.Collections.BitArray#rec System.Collections.BitArray.Set System.Int32#arg System.String.new System.Void#ret System.IO.TextWriter#rec System.IO.TextWriter.WriteLine System.String#arg
+System.NotSupportedException#ret System.NotSupportedException.new
+java.util.TreeMap#ret System.Int32.new System.Int32#rec System.Int32.new System.String#rec System.String.new java.util.TreeMap.new System.Int32#rec System.Int32.new throw if else if System.Int32#ret System.Int32.new System.Int32#rec System.Int32.new System.String#rec System.String.new System.Object#ret System.Collections.Hashtable#rec System.Collections.Hashtable#acc System.String#ret System.IO.Path#rec System.IO.Path.Combine System.String#arg System.String#arg System.Int32#rec System.Int32.new if System.Boolean#ret System.Collections.IDictionary#rec System.Collections.IDictionary.Contains System.String#arg System.String#arg System.Boolean#ret System.Collections.Generic.Dictionary#rec System.Collections.Generic.Dictionary.ContainsKey System.String#arg System.Void#ret System.Collections.IDictionary#rec System.Collections.IDictionary.Remove System.Object#arg System.String.new System.String.new System.Int32#ret System.Collections.ICollection#rec System.Collections.ICollection.Count System.Int32.new System.Int32#rec System.Int32.new System.String#rec System.String.new System.String.new System.String.new System.Int32#ret System.Collections.ICollection#rec System.Collections.ICollection.Count while System.Int32#ret System.Collections.ICollection#rec System.Collections.ICollection.Count
+System.String#arg System.String#arg System.IO.FileInfo#ret System.IO.FileInfo.new
+for System.Int32#rec System.Int32.new for else System.Int32#ret System.Collections.ArrayList#rec System.Collections.ArrayList.Count System.Object#ret System.Collections.ArrayList#rec if System.Int32#rec System.Collections.ArrayList#acc System.Int32#arg System.Double#arg if System.Int32.new System.Int32.new System.Byte#ret
+System.Int64[]#acc System.Int32#arg System.Int64.new for if System.Int32#ret else System.Int32.new System.Int32#ret System.Int64[]#acc System.Int32#arg System.Int64.new for if
+if if System.Int64#ret System.Int64#rec System.Int64.MaxValue System.Int32.new
+System.Char[]#ret System.String#rec System.String.ToCharArray
+System.Int32#arg
+null.new System.SystemException#ret System.SystemException.new System.String#arg throw
+if System.Int32#rec System.Int32.new System.String#ret System.String[]#rec System.String[]#acc System.Int32#arg
+System.Int32.new System.Int32.new System.Int32.new System.Collections.BitArray#ret System.Collections.BitArray.new if System.Int32#rec System.Int32.new System.Int32#ret if System.Void#ret System.Collections.BitArray#rec System.Collections.BitArray.Set System.Int32#arg
+null.new
+System.NotSupportedException#ret System.NotSupportedException.new System.String#arg throw
+java.util.SortedMap.entrySet System.Collections.IDictionaryEnumerator#ret java.util.SortedMap#rec System.Int32.new System.Collections.ArrayList#ret System.Collections.ArrayList#rec System.Collections.ArrayList.Synchronized System.Collections.Hashtable.new System.Collections.IDictionaryEnumerator#ret System.Collections.Hashtable#rec System.Collections.Hashtable.GetEnumerator System.Boolean#ret System.Object#ret System.Collections.IEnumerator#rec System.Collections.IEnumerator.MoveNext System.Object#ret System.Collections.IEnumerator#rec System.Collections.IEnumerator.Current null.new System.Collections.Generic.KeyValuePair#rec System.Collections.Generic.KeyValuePair.Key System.Object#ret System.Collections.Generic.KeyValuePair#rec System.Collections.Generic.KeyValuePair.Value System.Int32#ret System.Collections.ArrayList#rec System.Collections.ArrayList.Add System.Object#arg while System.Int32#ret System.Collections.ArrayList#rec System.Collections.ArrayList.Count System.Array#ret System.Collections.ArrayList#rec System.Collections.ArrayList.ToArray System.Type#arg
+System.IO.MemoryStream#ret System.IO.MemoryStream.new System.String#arg java.io.ObjectOutputStream.writeObject System.Runtime.Serialization.Formatters.Binary.BinaryFormatter#ret System.Runtime.Serialization.Formatters.Binary.BinaryFormatter.new System.IO.Stream#ret java.io.ObjectOutputStream.close java.io.ObjectOutputStream#rec java.io.ByteArrayInputStream#ret java.io.ByteArrayOutputStream.toByteArray System.IO.StringWriter#rec java.io.ObjectOutputStream#rec java.io.ByteArrayInputStream.new java.io.ObjectInputStream.new java.io.ObjectInputStream#ret java.io.ObjectInputStream.close java.io.ObjectInputStream.readObject java.io.ObjectInputStream#rec System.Int32#ret System.Array#rec System.Array.Length System.Char[]#rec System.Char[].new System.Object#ret java.io.ObjectInputStream#rec System.IO.IOException#ret System.String#arg throw System.IO.IOException.new System.String#arg System.IO.IOException#arg
+if System.String#ret System.String.new System.Char[]#arg System.Int32#arg
+System.Boolean#ret System.String#rec System.String.StartsWith System.String#arg if System.String#ret System.String#rec System.String.ToLower
+System.Int32#rec System.Int32.new
+System.Object#ret System.Collections.IDictionary#rec System.Collections.IDictionary#acc System.String#arg null.new
+System.Boolean.new System.Void#ret System.Collections.Hashtable#rec System.Collections.Hashtable.Add if
+System.Array.Length System.Int32#ret System.Int32[]#rec System.Int32[]#acc System.Int32#arg System.Collections.IDictionary#rec System.Collections.IDictionary#acc System.Array#rec System.Array.Length System.Object#ret null#rec System.Int32[]#arg System.Int32.new System.Int32#rec System.Int32.new System.String#rec System.String.new System.Object#ret System.Collections.Hashtable#rec System.Collections.Hashtable#acc
+null.new System.Array.Length System.Int32.new if else if
+System.Collections.Generic.IEnumerator#ret System.Collections.Generic.IEnumerable#rec System.Collections.Generic.IEnumerable.GetEnumerator System.Boolean#ret System.Collections.IEnumerator#rec System.Collections.IEnumerator.MoveNext System.Object#ret System.Collections.IEnumerator#rec System.Collections.IEnumerator.Current
+System.String.new System.Char[]#arg System.Int32#arg System.Int32#arg else
+if System.Int32#rec null.new if if
+java.lang.Thread.new System.Threading.Thread#ret java.lang.Runnable#arg System.TimeSpan#ret System.TimeSpan.new
+System.Int32#rec System.Int32.new System.Int32#ret System.Array#rec System.Array.Length System.IO.FileInfo#ret System.IO.FileInfo[]#rec System.IO.FileInfo[]#acc System.Int32#arg System.IO.File#rec System.IO.File.Exists System.Void#ret System.IO.Directory#rec System.IO.Directory.Delete
+if System.Int32#rec System.Void#ret System.Array#rec System.Array.Copy System.Int32[]#arg System.Int32#arg while if System.Single#ret System.Single[]#rec System.Single[]#acc System.Int32#arg
+System.Boolean.new if while System.Boolean.new while
+null.new System.Collections.IEnumerator#ret System.Collections.IEnumerable#rec System.Collections.IEnumerable.GetEnumerator System.Collections.IEnumerator.Current System.Boolean#ret System.Collections.IEnumerator#rec System.Collections.IEnumerator.MoveNext System.Object#ret System.Collections.IEnumerator#rec
+null.new System.Collections.ArrayList#ret System.Collections.ArrayList.new if System.Int32#ret System.Collections.ArrayList#rec System.Collections.ArrayList.Add
+null.new System.Collections.ArrayList#ret System.Collections.ArrayList.new System.Int32#ret System.Array#rec System.Array.Length System.String#ret System.String[]#rec System.String.new System.String[]#acc System.Int32#arg System.String.new System.Int32#ret System.Collections.ArrayList#rec System.Collections.ArrayList.Add System.String#arg
+System.String.new System.String.new if
+System.NotSupportedException#ret System.NotSupportedException.new
+System.Console#rec System.Console.Error System.String#ret System.Exception#rec System.Exception.StackTrace System.Int32#ret System.Collections.IList#rec System.Collections.IList.Add System.Exception#arg if
+System.Boolean.new System.Boolean.new if System.Boolean.new System.Boolean.new System.Int32#rec System.Int32.new for for while System.Boolean.new if while System.Boolean.new while if if System.Boolean.new
+System.Int32#rec
+System.Int32#rec System.Int32.new for for while if while System.Boolean.new while System.Boolean.new
+if System.Int32#rec
+java.lang.Throwable.getCause if if null.new System.String#ret System.Exception#rec System.Console#rec System.Console.Error System.String#ret System.Exception#rec System.Exception.StackTrace System.Int32#ret System.Collections.IList#rec System.Collections.IList.Add System.Exception#arg if
+System.TimeSpan#arg if
+null.new System.Collections.ArrayList#ret System.Int32.new System.Int32#ret System.Boolean#ret System.Int32#rec System.Int32.Equals System.Int32#arg
+java.util.BitSet[].new System.Boolean.new System.Int32#ret if System.Int32#rec System.Collections.BitArray#ret System.Collections.BitArray[]#rec System.Collections.BitArray[]#acc System.Int32#arg System.Int32#arg System.Random#rec System.Random.Next System.Int32#arg System.Collections.BitArray#ret
+else if System.Int32#rec System.Int32.new System.Int32#rec
+System.String[]#rec System.String[].new System.String.new System.String.new System.String[]#rec System.String[].new System.String.new System.String[]#rec System.String[].new System.String.new System.String[]#rec
+System.Int32#rec System.Int32.new System.Int32#rec
+System.Int64#arg System.Boolean#ret System.Object#ret null.new
+System.Int32.new System.Int32#ret System.Array#rec System.Array.Length System.String#ret System.String#ret System.String[]#rec System.String[]#rec System.String[]#acc System.Int32#arg for System.String[]#acc System.Int32#arg System.String#ret System.String[]#rec System.String[]#acc System.Int32#arg System.Boolean#ret System.String#rec System.String.Equals System.String#arg
+System.NotSupportedException#ret System.NotSupportedException.new
+java.util.Random.nextBytes System.Random#rec
+java.util.TimeZone#rec java.util.TimeZone#ret System.DateTime#ret System.DateTime#rec java.util.TimeZone#arg java.util.TimeZone#rec java.util.TimeZone.getTimeZone System.Int32.new System.Int32#rec System.Int32.new System.String#rec System.String.new java.util.TimeZone.setDefault System.Boolean#ret System.DateTime.Add System.TimeSpan#arg System.DateTime#arg System.DateTime#ret System.DateTime#rec System.DateTime.Add System.TimeSpan#arg java.util.TimeZone#arg java.util.TimeZone.setDefault java.util.TimeZone#rec System.String#rec System.String.Equals System.String#arg
+System.Void#ret System.Array#rec System.Array.Copy System.Int32[]#arg System.Int32#arg System.Int32.new System.Int32#rec System.Int32.new System.String#rec System.String.new System.TimeSpan#ret java.lang.Thread.setDaemon java.lang.Thread.setName System.TimeSpan#arg if
+if if System.Int32#ret
+System.Int32.new System.String#ret System.Object#ret System.Collections.ICollection#rec System.Collections.ICollection.SyncRoot System.Boolean#ret System.Collections.Generic.IDictionary#rec System.Char[]#arg System.Int32#arg System.Collections.Generic.IDictionary#rec System.Collections.Generic.IDictionary.ContainsKey System.Collections.Hashtable.Contains System.String#arg System.Boolean.new if System.Boolean#ret System.Text.Encoding.GetEncoding System.String#arg System.Byte[]#ret System.Text.Encoding#rec System.Text.Encoding.GetBytes System.String#arg if System.Void#ret System.String#rec System.Text.Encoding.GetEncoding System.String#arg System.Byte[]#ret System.Text.Encoding#rec System.Text.Encoding.GetBytes
+System.Array.Length System.Int32#ret System.Int32[]#rec System.Int32[]#acc System.Int32#arg
+else if System.Int32#ret System.Int32[]#rec System.Int32[]#acc if System.Int32#ret System.Char#ret System.Char[]#rec System.Char[]#acc System.Int32#arg System.Boolean.new
+System.Int32#rec System.Int32.new for for while System.Void#ret System.Threading.Thread#rec
+if if if System.Boolean.new System.Boolean.new
+System.Array.Length System.Int32#ret System.Int32[]#rec System.Int32[]#acc System.Int32#arg
+System.Int32.new
+System.Int32#arg System.Void#ret System.Array#rec System.Array.Copy System.Array.Copy System.Int32[]#arg System.Int32#arg System.Int32[]#arg System.Int32#arg
+System.Int32#rec
+System.Int32.new System.Int32#ret System.Collections.ArrayList#rec System.Int32#ret System.Collections.ArrayList.Count System.Int32#rec System.Int32.new System.Int32#ret System.Collections.ArrayList#rec System.Collections.ArrayList.Count System.Int32#arg System.Object#ret System.Collections.ArrayList#rec System.Collections.ArrayList#acc System.Int32#arg for
+System.Void#ret System.Array#rec System.Array.Copy System.Int32[]#arg System.Int32#arg
+System.Int32.new System.Int32#ret System.Int32[]#rec System.Int32[]#acc System.Int32#arg
+System.Int32#rec System.Int32.new for for while
+null.new System.Math.Abs System.Int32#ret System.Random#rec System.Random.Next System.Int32.new System.Int32#ret System.Math#rec System.Int32#arg System.Int32.new System.IO.IOException#ret System.IO.IOException.new System.String#arg
+if System.String#ret System.String.new System.Char[]#arg System.Int32#arg
+System.Collections.Hashtable#ret System.Collections.Hashtable.new System.Int32#rec System.Boolean#ret
+System.Int32#ret System.Math#rec System.Math.Min System.Int32#arg System.Int32#arg
+if System.Int32.new System.Int32#rec System.Int32.new System.String#rec System.String.new System.String.new System.String.new if System.String#arg if
+if if System.String#ret System.IO.Path#rec System.IO.Path.Combine System.String#arg System.Boolean#ret System.String#rec System.String.Equals System.String#arg System.Type#ret System.Type#rec System.Type.GetType System.String#arg System.Object#ret System.Activator#rec System.Activator.CreateInstance System.Type#arg System.Object#ret System.IO.IOException#ret System.IO.IOException.new System.String#arg System.IO.IOException#ret System.IO.IOException.new System.String#arg System.IO.IOException#ret System.IO.IOException.new System.String#arg System.IO.IOException#ret System.IO.IOException.new System.String#arg if if
+System.String[].new System.String.new System.String.new System.String[]#rec System.String[].new
+null.new
+if System.Int32#rec if System.Int32#rec System.Int32#rec
+if System.Int32#rec
+null.new System.Collections.Hashtable.new System.SystemException#ret System.SystemException.new System.Int32#arg for for System.Collections.Hashtable#ret System.String#arg throw if null.new System.Collections.Hashtable#ret System.String#arg System.Collections.Hashtable.new System.Object#ret System.Object[]#rec
+System.IO.StringReader#ret System.IO.StringReader.new System.String#arg
+if System.Int32#rec
+System.Boolean.new
+System.Boolean.new if for System.IO.FileInfo#ret System.IO.FileInfo.new System.IO.File#rec System.IO.File.Exists System.String#ret System.IO.FileSystemInfo#rec System.IO.FileSystemInfo.FullName System.Boolean#ret System.IO.Directory#rec System.IO.IOException#ret System.IO.IOException.new System.String#arg
+null.new
+System.Int32#rec System.Int32.new System.Int32#rec System.Int32#ret System.Array#rec System.Array.Length for null.new
+System.Boolean#ret
+System.Boolean#ret System.Boolean.new System.Void#ret System.Threading.Monitor#rec System.Threading.Monitor.PulseAll null.new throw System.Boolean.new System.Void#ret System.Threading.Monitor#rec System.Threading.Monitor.PulseAll throw System.Boolean.new System.Void#ret System.Threading.Monitor#rec System.Threading.Monitor.PulseAll System.Int32#arg if throw System.Boolean.new System.Void#ret System.Threading.Monitor#rec System.Threading.Monitor.PulseAll
+System.Collections.Hashtable#rec System.Boolean#ret java.util.HashMap.containsKey System.String#arg
+System.Int32#rec System.Int32.new System.Int32#rec
+null.new
+else System.Int32.new System.Boolean#ret System.Boolean[]#rec System.Boolean[]#acc System.Int32#arg System.Int32.new System.Int32.new else if System.Boolean#ret System.Boolean#ret System.Boolean[]#rec System.Boolean[]#acc System.Int32#arg System.Boolean.new
+System.String.new System.String.new System.String.new System.String[]#rec System.String[].new
+else if System.Int32#rec System.Int32.new System.Int32#rec
+System.Int32#rec System.Int32.new System.Int32#ret System.Collections.Generic.List#rec System.Collections.Generic.List.Count null.new System.Collections.IList#rec System.Collections.IList#acc System.Int32#arg if
+System.NotSupportedException#ret System.NotSupportedException.new
+System.Int32[]#rec System.Int32[]#acc System.Int32#arg while System.Int32#ret System.Void#ret System.Array#rec System.Array.Copy System.Int32[]#arg System.Int32#arg System.Int32.new System.Boolean.new if
+System.Int32#arg System.Int32.new null.new else if while null.new else if while System.Void#ret System.Array#rec System.Array.Copy System.Int32[]#arg System.Int32#arg System.Void#ret System.Array#rec System.Array.Copy System.Int32[]#arg System.Int32#arg null.new else if while
+null.new System.Boolean#ret System.String#rec System.String.Equals System.String#arg null.new else else if else if if
+System.Int32#rec System.Int32.new System.Int32#rec System.Int32.new System.Int32#rec System.Int32.new System.Int32#arg for
+if System.Int32#rec System.Int32#arg System.Int32#ret System.Collections.ArrayList#rec System.Collections.ArrayList.Add System.Object#arg
+null.new System.IO.Stream#arg System.Text.Encoding#arg System.Void#ret System.IO.TextWriter#rec System.IO.TextWriter.WriteLine System.String#arg System.Int32#rec System.Int32.new
+System.Int32#rec System.Int32.new System.Int32#rec
+if if
+else System.Int32#rec System.Int32.new for for while else if else System.Int64[]#acc System.Int32#arg System.Int64.new for if System.Void#ret System.Array#rec System.Array.Copy System.Int32[]#arg System.Int32#arg if System.Boolean.new if for System.Void#ret System.Boolean.new System.Int32.new System.Int32#ret System.Int32.new System.Boolean.new if System.Boolean.new if System.Boolean#ret
+if System.Boolean.new while if
+System.String.new if else if
+System.Boolean.new null.new if System.Object[]#rec System.Object[].new
+null.new System.String.new System.String.new if
+System.Diagnostics.StackTrace#ret System.Diagnostics.StackTrace.new System.Diagnostics.StackFrame[]#ret System.Diagnostics.StackFrame[]#acc System.Diagnostics.StackTrace#rec System.Diagnostics.StackTrace.GetFrames System.String.new System.Reflection.MethodBase#ret System.Diagnostics.StackFrame#rec System.String#ret System.Reflection.MemberInfo#rec System.Reflection.MemberInfo.Name System.Diagnostics.StackFrame[]#acc System.String.Equals System.String#arg System.String.new System.Diagnostics.StackFrame#ret System.Diagnostics.StackFrame[]#rec System.String#rec System.String#ret System.Reflection.MemberInfo#rec System.Reflection.MemberInfo.Name System.Int32.new System.Int32#rec System.Int32.new System.String#rec System.String.new System.String#arg throw System.Boolean.new System.IO.IOException#ret System.IO.IOException.new
+if if if System.Boolean.new System.Boolean.new
+else if if else if
+null.new
+System.Int32#rec System.Int32.new System.Int32#arg System.Int32#arg System.Void#ret System.Array#rec System.Array.Copy System.Int32[]#arg System.Int32#arg System.Int32#arg System.Int32#arg System.Void#ret System.Array#rec System.Array.Copy System.Int32[]#arg System.Int32#arg System.Int32#arg System.Int32#arg System.Int32#rec System.Int32.new System.Int32.new
+System.Boolean.new if if if System.Boolean.new System.String#ret System.String#rec System.String.Intern System.Int32.new for for while System.Int32#rec null.new if System.Int64#ret System.Int64[]#rec System.Int64[]#acc System.Int32#arg System.Int32#ret if System.Int32#rec if System.Int64#ret System.Int64[]#rec System.Int64[]#acc System.Int32#arg System.Int32#arg if if System.Array#rec System.Array.Sort System.Int32[]#arg System.Int32#arg System.Int32#arg System.Int32#rec System.Int32.new System.Int32#rec
+if if if System.Boolean.new System.Boolean.new
+System.Int32#arg System.Int32#ret System.Int32[]#rec System.Int32[]#acc System.Int32#arg
+System.String#ret System.Convert#rec System.Convert.ToString System.Int32#arg
+null.new
+System.Int32.new
+System.Void#ret System.Collections.Hashtable#rec System.Collections.Hashtable.Remove System.String#arg
+System.Collections.Generic.List#rec System.Collections.Generic.List.GetEnumerator
+System.Int32#ret System.String#rec System.String.Length System.Int32#ret System.String#rec System.String.Length
+System.Int32.new System.Int32#ret System.Array#rec System.Array.Length System.String.new null.new System.Array.Length System.Int32#ret System.Int32[]#rec System.Int32[]#acc System.Int32#arg
+if if null.new if else if else if System.String#arg null.new System.Text.Encoding#ret System.Text.Encoding#rec System.Text.Encoding.UTF8
+System.Int32.new System.String[].new System.String.new System.String.new System.String[]#rec System.String[].new System.String.new System.String.new System.String.new System.String.new System.String[]#rec null.new System.Int32#arg System.Int32#arg
+System.Int32.new System.Collections.Hashtable#ret System.Collections.Hashtable.new System.Collections.Hashtable#ret System.Collections.Hashtable.new System.Boolean#ret System.String#arg System.String#ret System.Collections.Generic.IDictionary#rec System.Collections.Generic.IDictionary#acc System.String#arg System.Collections.Hashtable#rec System.Collections.Hashtable.Add System.IO.StringReader.new System.String#arg System.String#arg System.IO.StringReader#ret System.String#arg System.String#arg null.new null.new for
+if if System.Boolean#ret System.Object#rec System.Object.Equals System.Collections.ArrayList#arg System.Boolean.new
+System.Collections.ArrayList#rec System.Collections.ArrayList.Synchronized System.Collections.ArrayList#arg null#rec null.new
+null.new
+System.String#ret System.String[]#rec System.String[]#acc System.Int32#arg
+System.Int32.new System.Int32.new System.Int64.new System.Int64.new System.Int64#arg System.Int32[]#rec System.Int32[]#acc System.Int32#arg
+System.Void#ret System.Collections.IDictionary#rec System.Collections.IDictionary.Remove System.String#arg
+System.Int64#ret System.Int64[]#rec System.Int64[]#acc System.Int32#arg
+System.Int32#ret System.String#rec System.String.Length
+if System.Boolean#ret System.Collections.IDictionary#rec System.Collections.IDictionary.Contains System.Collections.ICollection.SyncRoot System.Object#ret System.Collections.IDictionary#rec System.Collections.IDictionary#acc System.Object#arg System.String#arg System.Object[]#acc null.new System.Object#ret System.Collections.IDictionary#rec System.Collections.IDictionary#acc
+null.new
+System.Int32.new null.new System.String[].new System.String.new System.String.new System.String[]#rec System.String[].new System.String.new System.String.new System.String.new System.String.new System.String[]#rec System.Int32#arg
+System.Text.StringBuilder#ret System.Text.StringBuilder.new System.Text.StringBuilder#rec System.String.new System.String.new System.String.new System.Text.StringBuilder#ret System.Text.StringBuilder.Append System.String#arg System.String#arg System.Text.StringBuilder#ret System.Text.StringBuilder#rec System.Text.StringBuilder.Append System.String#arg System.String.new System.String.new System.String.new System.Text.StringBuilder#ret System.Text.StringBuilder.ToString System.Text.StringBuilder#rec System.Text.StringBuilder.Append System.String#arg System.String#ret System.Text.StringBuilder#rec
+java.lang.String.equalsIgnoreCase System.Int32#arg null.new System.Boolean#ret System.String#rec java.lang.String.equalsIgnoreCase System.String#arg System.String#arg System.Boolean.new System.Boolean#ret System.String#rec java.lang.String.equalsIgnoreCase System.String#rec java.lang.String.equalsIgnoreCase System.String#arg System.Boolean.new System.Boolean#ret System.String#rec System.String#arg System.Int32#ret System.Int32#ret System.Int32.new System.String.new System.String.new if else if System.Void#ret System.Array#rec System.Array.Copy System.Int32[]#arg System.Int32#arg else
+null.new
+System.ArgumentException#ret System.ArgumentException.new System.String#arg throw if System.Object#ret System.Collections.IDictionary#rec System.Collections.IDictionary#acc System.String#arg null.new
+else if if else if
+System.Char[]#arg System.Boolean.new else if else if System.String#arg System.Text.Encoding#rec System.Text.Encoding.UTF8 System.String#ret System.String.new System.Char[]#arg System.String#arg null.new System.Text.Encoding#ret System.Text.Encoding#rec System.Text.Encoding.UTF8
+if if if System.Boolean.new System.Boolean.new
+System.Int64.new if System.Int32#ret System.String#rec System.String.CompareOrdinal System.String#arg System.String#arg
+System.Boolean#ret
+System.Int32#rec System.String[]#rec System.String#ret System.String[]#rec System.String[]#acc System.Int32#arg System.String#ret System.Void#ret System.Array#rec System.Array.Copy System.Int32[]#arg System.Int32#arg System.String[]#acc System.Int32#arg System.String#ret System.String[]#rec System.String[]#acc System.Int32#ret System.String#ret System.String[]#rec
+System.NotSupportedException#ret System.NotSupportedException.new System.String#arg throw
+System.Void#ret System.Array#rec System.Array.Copy System.Int32[]#arg System.Int32#arg
+System.Collections.Hashtable#ret System.Collections.IDictionary#rec System.Collections.Hashtable.new System.Object#ret System.Collections.ArrayList#rec System.Collections.ArrayList#acc System.Int32#arg System.Object#ret System.Void#ret System.Collections.ArrayList#rec System.Collections.ArrayList.Insert System.Collections.Hashtable#acc System.Object#ret System.Collections.Hashtable#rec System.Collections.Hashtable#acc
+System.Text.StringBuilder#ret System.Text.StringBuilder.new System.Text.StringBuilder#rec System.String.new System.String.new System.String.new System.Text.StringBuilder#ret System.Text.StringBuilder.Append System.String#arg System.String#ret System.Text.StringBuilder#rec System.Text.StringBuilder.ToString
+else if if else if
+null#rec
+System.String[]#rec System.String[].new System.String#arg System.String.new System.String.new System.String[]#rec System.String[].new
+System.Int32.new System.Int64#ret System.Int64[]#rec System.Int64[]#acc System.Int32#arg
+if System.Int32#rec System.Object#ret System.Collections.Hashtable#rec System.Collections.Hashtable#acc System.String#arg null.new if else if System.Int32#rec System.Int32.new System.Int32#rec
+null.new
+System.Int32.new if System.Int32#ret System.String#rec System.String.Length System.String.Length System.Int32#ret System.String#rec System.String.Length System.Int32#ret System.String#rec System.String#rec System.String.Substring System.Byte[]#arg System.Int32#ret System.String#rec System.String.Length System.Int32#arg System.Boolean#ret System.String#rec System.String.Equals System.String#arg
+System.Int32#ret System.Random#rec System.Random.Next System.Int32.new System.Int32#ret System.Math#rec System.Math.Abs System.Int32#arg System.Int32#ret System.Collections.ArrayList#rec System.Collections.ArrayList.Add System.Int32[]#arg
+if while System.Boolean.new while System.Boolean.new System.Boolean.new if while System.Boolean.new while
+System.Int64#ret System.IO.MemoryStream#rec System.IO.MemoryStream.Position
+System.Void#ret System.Array#rec System.Array.Copy System.Int32[]#arg System.Int32#arg System.Console#rec System.Console.Error System.String#ret System.Exception#rec System.Exception.StackTrace System.Int32#rec System.Int32.new
+System.String.new System.String.new System.String.new System.String.new System.String.new System.ArgumentException#ret System.ArgumentException.new System.String#arg throw else
+java.nio.ByteBuffer[].new java.nio.ByteBuffer[]#ret if System.Int32#rec System.IO.MemoryStream#ret System.IO.MemoryStream[]#rec System.IO.MemoryStream#ret System.IO.MemoryStream[]#rec System.IO.MemoryStream[]#acc System.Int32#arg System.Int64#ret System.IO.MemoryStream[]#acc System.Int32#arg System.Int32#ret System.Array#rec System.Array.Length System.IO.MemoryStream[]#rec System.IO.MemoryStream[].new System.Int32#arg System.IO.IOException#arg throw
+null#rec
+System.Int32.new System.Int32#ret System.Random#rec System.Random.Next System.Int32#arg System.Text.StringBuilder#ret System.Int32.new System.Int32#ret System.Random#rec System.Random.Next System.Int32#arg System.Text.StringBuilder.new System.String#arg System.Int32#ret System.Text.StringBuilder#rec System.Int32#ret System.Text.StringBuilder.Length System.Text.StringBuilder#ret System.Text.StringBuilder#rec System.Text.StringBuilder.Append System.Char#arg System.String[]#acc System.Random#rec System.Random.Next System.Int32#arg System.String#ret System.String[]#rec System.Text.StringBuilder#ret System.Int32#arg System.Text.StringBuilder#ret System.Text.StringBuilder#rec System.Text.StringBuilder.Append System.String#arg System.Text.StringBuilder.ToString System.Text.StringBuilder#rec System.Text.StringBuilder.Append System.String#arg System.String#ret System.Text.StringBuilder#rec
+System.Object#ret System.Collections.IDictionary#rec System.Collections.IDictionary#acc System.Int32#rec System.Int32.new System.String#rec System.String.new System.Int32.new System.Boolean.new
+else if if else if
+System.Int32.new for System.Byte#ret
+System.Text.StringBuilder#ret System.Text.StringBuilder.new System.Int32#ret System.Text.StringBuilder#ret System.Text.StringBuilder#rec System.Text.StringBuilder.Append System.Collections.ArrayList#rec System.Collections.ArrayList.Count System.Object#ret System.Collections.ArrayList#rec System.Collections.ArrayList#acc System.Int32#arg System.Text.StringBuilder#ret System.Text.StringBuilder#rec System.Text.StringBuilder.Append if for System.Int32#ret System.Collections.ArrayList#rec System.Collections.ArrayList.Count System.Text.StringBuilder#rec System.String.new System.String.new System.String.new System.Text.StringBuilder#ret System.Text.StringBuilder.Append System.String#arg System.String#ret System.Text.StringBuilder#rec System.Text.StringBuilder.ToString
+System.Int32.new System.Int32#ret System.Int32[]#rec System.Int32[]#acc System.Int32#arg
+java.util.SortedMap#rec System.Collections.IDictionaryEnumerator#ret java.util.SortedMap.entrySet System.Collections.Hashtable.new System.Collections.IDictionaryEnumerator#ret System.Collections.Hashtable#rec System.Collections.Hashtable.GetEnumerator System.Boolean#ret System.Collections.IEnumerator#rec System.Collections.IEnumerator.MoveNext System.Object#ret System.Collections.IEnumerator#rec System.Collections.IEnumerator.Current System.Collections.Generic.KeyValuePair.Value System.Object#ret System.Collections.Generic.KeyValuePair#rec System.Collections.Generic.KeyValuePair.Key System.Object#ret System.Collections.Generic.KeyValuePair#rec
+null.new System.Collections.Hashtable#ret null.new System.Collections.ICollection.SyncRoot System.Object#ret System.Object[]#rec System.Object[]#acc null.new System.Object#ret System.Collections.Hashtable#rec System.Collections.Hashtable#acc
+System.Int32.new System.Int32#rec System.Int32.new System.String#rec System.String.new System.Int64#ret System.Double#ret System.Math#rec else if while System.Math.Log System.Int32#arg System.Int32#rec System.Int32.new null.new System.Int32#arg System.Double#ret System.Math#rec System.Math.Log System.Int32#rec System.Int32.new for for while System.Int32.new System.Double#ret System.Math#rec System.Math.Log System.Double#arg null.new System.Single#ret System.Single[]#rec System.Single[]#acc System.Int32#arg System.Array.Length System.Single#ret System.Single[]#rec System.Single[]#acc System.Int32#arg while System.Boolean.new if while System.Boolean.new null.new null.new System.Int32#rec System.Int32.new System.Int32#rec System.Int32#arg System.Int32#rec System.Int32.new while null.new System.String.new else
+if if if System.Int32#ret System.String#rec System.String.Length System.Boolean#rec
+System.Int32.new System.Int32#rec System.Int32.new System.String#rec System.String.new System.Array.Length System.Int32.new System.String.new System.String.new throw
+System.String#ret System.Int32.new System.Int32#rec System.Int32.new System.String#rec System.String.new System.Char.ToString System.String.new System.IO.FileInfo#ret System.IO.FileInfo.new System.String#arg
+System.String.new null.new System.Byte#ret System.Byte[]#rec System.Byte[]#acc null.new System.Void#ret System.Array#rec System.Array.Copy System.Int32[]#arg System.Int32#arg System.Single.new System.String.new System.String.new System.String.new System.Single.new
+System.IO.MemoryStream#rec System.IO.MemoryStream.Read System.IO.SeekOrigin#rec System.IO.SeekOrigin.Begin System.Int64#ret System.IO.MemoryStream#rec System.IO.MemoryStream.Seek System.IO.MemoryStream[]#acc System.Int32#arg System.IO.SeekOrigin#ret System.Int32#arg System.Int32#ret System.Int32[]#rec System.Int32[]#acc System.Int32#arg
+System.Int32#ret
+System.Void#ret System.Array#rec System.Array.Copy System.Int32[]#arg System.Int32#arg while System.Int32.new null.new System.Int32.new System.String.new System.String.new System.Int32.new null.new System.Int32.new System.String.new System.String.new if System.Single#ret System.Single[]#rec System.Single[]#acc System.Int32#arg System.Single#ret System.Single[]#rec System.Single[]#acc System.Int32#arg System.Single#ret System.Int32.new null.new System.Int32.new System.String.new System.String.new System.Int32#arg System.Single#ret System.Single[]#rec System.Single[]#acc System.Int32#arg
+System.SystemException#ret System.SystemException.new System.String#arg
+System.Boolean.new
+System.Int32.new System.Int32#ret System.Int32[]#rec System.Int32[]#acc System.Int32#arg System.Int32#ret System.Array#rec System.Array.Length System.Void#ret System.Array#rec System.Array.Copy System.Int32[]#arg System.Int32#arg System.Int32#ret System.Array#rec System.Array.Length System.Int32.new System.Int32#ret System.Int32[]#rec System.Int32[]#acc System.Int32#arg System.Int32#arg System.Int32#ret System.Int32[]#rec System.Int32[]#acc System.Int32#arg System.Text.StringBuilder#rec System.Text.StringBuilder#ret System.Text.StringBuilder.new System.Text.StringBuilder#ret System.Text.StringBuilder#rec System.Text.StringBuilder.Append System.String#arg System.Text.StringBuilder#rec System.Text.StringBuilder.Append System.String#arg System.Text.StringBuilder.Append System.String#arg System.Text.StringBuilder.ToString System.Text.StringBuilder#rec System.Text.StringBuilder.Append System.String#arg System.String#ret System.Text.StringBuilder#rec
+System.Boolean.new
+System.String.new System.String.new System.String[]#rec System.String[].new
+System.Int32#ret System.Collections.ArrayList#rec System.Collections.ArrayList.Count if System.Int32#rec System.Collections.Generic.List#rec System.Collections.Generic.List#acc System.Int32#arg for for
+if System.Int32#rec System.Int32.new System.String#ret System.Convert#rec System.Convert.ToString System.Int32#arg
+null.new else
+null#rec null.new null.new null.new null.new
+null.new null.new System.IO.FileNotFoundException#ret System.IO.FileNotFoundException.new System.String#arg throw if System.Boolean#ret System.Collections.IDictionary#rec System.Collections.IDictionary.Contains System.String#arg System.Object#ret System.Collections.IDictionary#rec System.Collections.IDictionary#acc System.String#arg System.Int32#arg System.Int32#ret System.Int32#rec System.Int32.MinValue System.Int32#rec System.Int32.new System.Object#ret System.Collections.Hashtable#rec System.Collections.Hashtable#acc System.Int32#arg if System.Object#ret System.Collections.Hashtable#rec System.Collections.Hashtable#acc
+if System.Int32#rec
+null.new System.Boolean.new if if if System.Boolean.new System.Boolean.new if while System.Boolean.new while System.Boolean.new System.Int32.new if System.Int32.new System.Boolean.new System.Boolean.new null.new if System.Boolean.new System.Boolean.new if while
+for System.Int32#rec System.Void#ret System.Array#rec System.Array.Copy System.Int32[]#arg System.Int32#arg System.Text.Encoding#rec System.Text.Encoding.UTF8 System.String#ret System.String.new System.Char[]#arg System.Int32.new for System.Byte#ret System.Int32#arg System.Byte[]#ret System.Text.Encoding#rec System.Text.Encoding.GetBytes System.String#arg System.Int32.new System.Char#ret System.Char[]#rec System.Char[]#acc System.Int32#arg
+System.Int32.new System.Int32.new System.Int32.new System.String#rec System.String.new
+System.Boolean#ret System.Collections.IDictionary#rec System.Collections.IDictionary.Contains System.String#arg
+System.Int32.new System.Int32#ret System.Array#rec System.Array.Length System.String.new System.String#ret System.String#ret System.String#ret System.Int32.new System.Int32.new else System.String#ret System.Globalization.CompareInfo#arg System.Boolean.new if
+null.new System.String.new else System.String#arg System.String.IndexOf System.String#arg System.Int32.new System.Boolean.new else System.String#arg System.Collections.Generic.List#ret System.Collections.Generic.List.new System.Void#ret System.Collections.Generic.List#rec System.Collections.Generic.List.Add
+System.Boolean.new System.Boolean.new if while System.Boolean.new System.Int32#rec System.Int32.new for for while if System.Boolean.new System.Boolean.new if System.Boolean.new
+null.new null.new if if
+System.Void#ret System.Array#rec System.Array.Copy System.Int32[]#arg System.Int32#arg
+System.Console.Out System.String.new System.Void#ret System.IO.TextWriter#rec System.IO.TextWriter.WriteLine System.Int32.new System.String.new System.String.new System.Int32#ret System.String#arg System.Collections.IEnumerator#ret System.Collections.Generic.ICollection#rec System.Collections.Generic.ICollection.Count System.Void#ret System.Console#rec System.Console.WriteLine System.Collections.IEnumerator.MoveNext System.Collections.Generic.IEnumerable#rec System.Collections.Generic.IEnumerable.GetEnumerator System.Boolean#ret System.Collections.IEnumerator#rec System.Char[]#rec System.Char[].new System.String#ret System.String.new System.Char[]#arg System.Object#ret System.Collections.IEnumerator#rec System.Collections.IEnumerator.Current System.Int32.new System.Int32#ret System.Int32[]#rec System.Int32[]#acc System.Int32#arg System.Int32#arg for System.Void#ret System.Console#rec System.Console.WriteLine null.new System.Int32#ret System.Collections.Generic.ICollection#rec System.Collections.Generic.ICollection.Count else
+null.new null.new System.Boolean.new if System.Boolean#ret
+null.new
+System.IO.FileInfo#ret System.IO.FileInfo.new System.String#arg
+System.Object#ret System.Boolean.new else if while System.Boolean.new System.Void#ret System.Array#rec System.Array.Copy System.Int32[]#arg System.Int32#arg System.Array#rec System.Array.Length System.Int32#ret System.Int32[]#rec System.Int32[]#acc System.Object#ret System.Collections.Hashtable#rec System.Collections.Hashtable#acc
+System.String#ret System.Object#rec System.Object.ToString
+System.String#ret System.Int32.new System.Int32#rec System.Int32.new System.String#rec System.String.new System.Char.ToString System.String.new System.IO.FileInfo#ret System.IO.FileInfo.new System.String#arg
+null.new System.String.new
+System.Int32.new for System.Int32.new System.Int32.new System.Int32.new System.Boolean#ret
+System.Int32.new System.Int32#ret System.Array#rec System.Array.Length System.String.new
+System.Diagnostics.StackTrace#ret System.Diagnostics.StackTrace.new System.Diagnostics.StackFrame[]#ret System.Diagnostics.StackFrame[]#acc System.Diagnostics.StackTrace#rec System.Diagnostics.StackTrace.GetFrames System.String.new System.Reflection.MethodBase#ret System.Diagnostics.StackFrame#rec System.Int32#arg System.Diagnostics.StackFrame[]#acc System.String.Equals System.String#arg System.String.new System.Diagnostics.StackFrame#ret System.Diagnostics.StackFrame[]#rec System.String#ret System.Reflection.MemberInfo#rec System.Reflection.MemberInfo.Name System.Int32.new System.Int32#rec System.Int32.new System.String#rec System.String.new System.IO.IOException#ret System.IO.IOException.new
+System.Int32#ret System.String[]#arg System.Int32.new if System.Array#ret System.Collections.ArrayList#rec System.Collections.ArrayList.ToArray
+System.Text.StringBuilder#rec if for null.new if System.Char#ret System.Void#ret System.Array#rec System.Array.Copy System.Int32[]#arg System.Int32#arg System.Text.StringBuilder#acc System.Int32#arg System.Char#ret System.String#rec System.String#acc
+System.TimeSpan#arg if System.IO.FileInfo#ret System.IO.FileInfo.new System.String#arg
+System.Collections.Generic.IEnumerator#ret System.Collections.Generic.IEnumerable#rec System.Collections.Generic.IEnumerable.GetEnumerator System.Boolean#ret System.Int32#rec System.Int32.new for for while System.Collections.IEnumerator#rec System.Collections.IEnumerator.MoveNext System.Object#ret System.Collections.IEnumerator#rec System.Collections.IEnumerator.Current System.Boolean#ret System.Collections.Hashtable#rec System.Collections.Hashtable.Contains System.String#arg null.new System.Boolean#ret System.Threading.Monitor#rec System.Threading.Monitor.Wait System.Collections.Generic.ICollection#rec System.Collections.Generic.ICollection.Contains System.String#arg
+System.Int32.new System.Int32#ret System.Collections.ArrayList#rec System.Collections.ArrayList.Count System.Array#ret System.Collections.ArrayList#rec System.Collections.ArrayList.ToArray System.Type#arg
+if System.Int32#rec System.Int32#ret System.Array#rec System.Array.Length System.Int32#arg System.Single#ret System.Single[]#rec System.Single[]#acc System.Int32#arg
+if System.Int32#rec System.Int32.new System.String#ret System.String[]#rec System.String[]#acc System.Int32#arg
+System.String#ret if System.Int32#rec System.Int32.new System.Int32#ret System.Array#rec System.Array.Length System.String#ret System.Int32.new System.Int32#ret System.Array#rec System.Array.Length System.String#ret
+System.String#ret System.Int32.new System.Int32#rec System.Int32.new System.String#rec System.String.new System.Char.ToString System.String.new System.IO.FileInfo#ret System.IO.FileInfo.new System.String#arg System.IO.FileSystemInfo#rec System.IO.FileSystemInfo.FullName System.Boolean#ret System.IO.File#rec System.IO.File.Exists
+System.Int32#ret null.new System.Int32#rec System.Int32#arg System.Int32#ret System.Int32[]#rec System.Int32[]#acc System.Int32#arg
+System.Int32#rec System.Int32.new System.Int32#ret System.Random#rec System.Random.Next System.String#ret System.Convert#rec System.Convert.ToString System.Int32#arg for
+null.new System.IO.IOException#ret System.IO.IOException.new System.String#arg System.Int32#ret System.Random#rec System.Random.Next
+if for System.IO.FileInfo#ret System.IO.FileInfo.new System.String#arg System.IO.FileSystemInfo#rec System.IO.FileSystemInfo.FullName System.String[]#ret System.IO.Directory#rec System.IO.Directory.GetFileSystemEntries System.Array.Length System.String#ret System.String[]#rec System.String[]#acc System.Int32#arg System.String#arg System.String#arg System.IO.FileInfo#ret System.IO.FileInfo.new System.IO.Directory#rec System.IO.Directory.Delete
+null.new
+System.DateTime#ret System.DateTime#rec System.DateTime.Now System.Void#ret System.Threading.Thread#rec System.IO.TextWriter#ret System.Console#rec System.Console.Out System.Threading.Thread#ret System.Threading.Thread#rec else if System.TimeSpan#ret System.TimeSpan#rec System.TimeSpan.FromMilliseconds System.Console#rec System.Console.Error System.String#ret System.Exception#rec System.Exception.StackTrace
+null.new System.Int32#arg System.Int32.new System.String.new System.String.new throw if System.Byte#ret
+System.ArgumentException#ret System.ArgumentException.new System.String#arg throw else
+System.IO.StringReader#ret System.IO.StringReader.new System.Int32#arg for System.Void#ret System.Console#rec System.Console.WriteLine System.String.new System.Void#ret System.IO.TextWriter#rec System.IO.TextWriter.WriteLine System.String#arg
+null.new
+System.String#arg throw System.Boolean.new System.IO.IOException#ret System.IO.IOException.new System.String.new if else if if System.IO.IOException#ret System.IO.IOException.new System.String#arg
+System.Int32.new System.Int32#rec System.Int32.new System.String#rec System.String.new
+else if System.Int32#rec System.Int32.new System.Int32#rec
+System.Collections.ArrayList#ret System.Collections.ArrayList.new System.Int32#arg System.Int32#arg System.Int32.new System.Object#ret System.Object[]#rec System.Object[]#acc System.Int32#arg System.Int32#ret System.Collections.ArrayList#rec System.Collections.ArrayList.Add System.Object#arg while System.Int32#ret System.Collections.ArrayList#rec System.Collections.ArrayList.Count System.String[]#arg System.String[]#rec System.String[].new System.Array#ret System.Collections.ArrayList#rec System.Collections.ArrayList.ToArray
+System.String.new System.String.new System.String.new System.String[]#rec System.String[].new System.Int32#arg System.Int32#arg System.Int32#arg System.Int32#arg
+if System.Int32#rec System.Int64#rec System.Int64.MaxValue System.Int32.new System.Int32.new for
+else if if else if null.new if if
+System.String[]#rec System.String[].new System.Array.Length System.String#ret System.String[]#rec System.String[]#acc System.Int32#arg
+if
+if System.Int32#rec
+null.new System.Int32#ret System.Random#rec System.Random.Next
+System.NotSupportedException#ret System.NotSupportedException.new
+else if if else if
+System.TimeSpan#arg if
+java.lang.Throwable.getCause if if null.new System.String#ret System.Exception#rec System.Int32#rec
+System.Int32.new System.Int32#ret System.Array#rec System.Array.Length System.String.new
+System.Object#ret System.Collections.IDictionary#rec System.Collections.IDictionary#acc System.String#arg
+System.Boolean.new if while System.Boolean.new while
+System.Int32#ret if System.String#rec System.String.Length System.Int32#ret System.String#rec System.String.Length System.String#ret System.String#rec System.String.Substring System.Int32#arg System.Int32#arg
+else if if else if
+System.Array.Length System.Int64#ret System.Int64[]#rec System.Int64[]#acc System.Int32#arg
+System.Array.Length System.Char[]#rec System.Char[].new System.Int32[]#rec System.Int32[].new
+System.Int32.new System.Int32.new if System.Boolean.new System.Boolean.new System.Int32#rec System.Int32.new for for while if if if if System.Boolean.new System.Int32#rec System.Int32.new for for while if if if if System.Boolean.new
+if System.Int32#rec null#rec
+java.lang.Character.isWhitespace System.Char#arg System.Boolean#ret System.Char#rec
+if System.Int32#rec System.Int32#ret System.Int32.new System.Int32#ret System.Random#rec System.Random.Next System.Int32#arg System.Collections.BitArray.new System.Int32#arg System.Random#rec System.Random.Next System.Int32#arg System.Collections.BitArray#ret null.new System.Int32.new System.Int32#ret System.Random#rec System.Random.Next System.Int32#arg System.Int32.new System.Int32.new System.Int32#ret System.Collections.BitArray#rec System.Boolean#ret System.Collections.BitArray#rec System.Collections.BitArray.Get System.Int32#arg System.Collections.BitArray.Count if System.Void#ret System.Collections.BitArray#rec System.Collections.BitArray.Set System.Int32#arg System.String.new System.Void#ret System.IO.TextWriter#rec System.IO.TextWriter.WriteLine System.String#arg
+System.NotSupportedException#ret System.NotSupportedException.new
+java.util.TreeMap#ret System.Int32.new System.Int32#rec System.Int32.new System.String#rec System.String.new java.util.TreeMap.new System.Int32#rec System.Int32.new throw if else if System.Int32#ret System.Int32.new System.Int32#rec System.Int32.new System.String#rec System.String.new System.Object#ret System.Collections.Hashtable#rec System.Collections.Hashtable#acc System.String#ret System.IO.Path#rec System.IO.Path.Combine System.String#arg System.String#arg System.Int32#rec System.Int32.new if System.Boolean#ret System.Collections.IDictionary#rec System.Collections.IDictionary.Contains System.String#arg System.String#arg System.Boolean#ret System.Collections.Generic.Dictionary#rec System.Collections.Generic.Dictionary.ContainsKey System.String#arg System.Void#ret System.Collections.IDictionary#rec System.Collections.IDictionary.Remove System.Object#arg System.String.new System.String.new System.Int32#ret System.Collections.ICollection#rec System.Collections.ICollection.Count System.Int32.new System.Int32#rec System.Int32.new System.String#rec System.String.new System.String.new System.String.new System.Int32#ret System.Collections.ICollection#rec System.Collections.ICollection.Count while System.Int32#ret System.Collections.ICollection#rec System.Collections.ICollection.Count
+System.String#arg System.String#arg System.IO.FileInfo#ret System.IO.FileInfo.new
+for System.Int32#rec System.Int32.new for else System.Int32#ret System.Collections.ArrayList#rec System.Collections.ArrayList.Count System.Object#ret System.Collections.ArrayList#rec if System.Int32#rec System.Collections.ArrayList#acc System.Int32#arg System.Double#arg if System.Int32.new System.Int32.new System.Byte#ret
+System.Int64[]#acc System.Int32#arg System.Int64.new for if System.Int32#ret else System.Int32.new System.Int32#ret System.Int64[]#acc System.Int32#arg System.Int64.new for if
+if if System.Int64#ret System.Int64#rec System.Int64.MaxValue System.Int32.new
+System.Char[]#ret System.String#rec System.String.ToCharArray
+System.Int32#arg
+null.new System.SystemException#ret System.SystemException.new System.String#arg throw
+if System.Int32#rec System.Int32.new System.String#ret System.String[]#rec System.String[]#acc System.Int32#arg
+System.Int32.new System.Int32.new System.Int32.new System.Collections.BitArray#ret System.Collections.BitArray.new if System.Int32#rec System.Int32.new System.Int32#ret if System.Void#ret System.Collections.BitArray#rec System.Collections.BitArray.Set System.Int32#arg
+null.new
+System.NotSupportedException#ret System.NotSupportedException.new System.String#arg throw
+java.util.SortedMap.entrySet System.Collections.IDictionaryEnumerator#ret java.util.SortedMap#rec System.Int32.new System.Collections.ArrayList#ret System.Collections.ArrayList#rec System.Collections.ArrayList.Synchronized System.Collections.Hashtable.new System.Collections.IDictionaryEnumerator#ret System.Collections.Hashtable#rec System.Collections.Hashtable.GetEnumerator System.Boolean#ret System.Object#ret System.Collections.IEnumerator#rec System.Collections.IEnumerator.MoveNext System.Object#ret System.Collections.IEnumerator#rec System.Collections.IEnumerator.Current null.new System.Collections.Generic.KeyValuePair#rec System.Collections.Generic.KeyValuePair.Key System.Object#ret System.Collections.Generic.KeyValuePair#rec System.Collections.Generic.KeyValuePair.Value System.Int32#ret System.Collections.ArrayList#rec System.Collections.ArrayList.Add System.Object#arg while System.Int32#ret System.Collections.ArrayList#rec System.Collections.ArrayList.Count System.Array#ret System.Collections.ArrayList#rec System.Collections.ArrayList.ToArray System.Type#arg
+System.IO.MemoryStream#ret System.IO.MemoryStream.new System.String#arg java.io.ObjectOutputStream.writeObject System.Runtime.Serialization.Formatters.Binary.BinaryFormatter#ret System.Runtime.Serialization.Formatters.Binary.BinaryFormatter.new System.IO.Stream#ret java.io.ObjectOutputStream.close java.io.ObjectOutputStream#rec java.io.ByteArrayInputStream#ret java.io.ByteArrayOutputStream.toByteArray java.io.ObjectOutputStream#rec java.io.ObjectInputStream.new java.io.ByteArrayInputStream.new System.IO.StringWriter#rec java.io.ObjectInputStream#ret java.io.ObjectInputStream.close java.io.ObjectInputStream.readObject java.io.ObjectInputStream#rec System.Int32#ret System.Array#rec System.Array.Length System.Char[]#rec System.Char[].new System.Object#ret java.io.ObjectInputStream#rec System.IO.IOException#ret System.String#arg throw System.IO.IOException.new System.String#arg System.IO.IOException#arg
+if System.String#ret System.String.new System.Char[]#arg System.Int32#arg
+System.Boolean#ret System.String#rec System.String.StartsWith System.String#arg if System.String#ret System.String#rec System.String.ToLower
+System.Int32#rec System.Int32.new
+System.Object#ret System.Collections.IDictionary#rec System.Collections.IDictionary#acc System.String#arg null.new
+System.Boolean.new System.Void#ret System.Collections.Hashtable#rec System.Collections.Hashtable.Add if
+System.Array.Length System.Int32#ret System.Int32[]#rec System.Int32[]#acc System.Int32#arg System.Collections.IDictionary#rec System.Collections.IDictionary#acc System.Array#rec System.Array.Length System.Object#ret null#rec System.Int32[]#arg System.Int32.new System.Int32#rec System.Int32.new System.String#rec System.String.new System.Object#ret System.Collections.Hashtable#rec System.Collections.Hashtable#acc
+null.new System.Array.Length System.Int32.new if else if
+System.Collections.Generic.IEnumerator#ret System.Collections.Generic.IEnumerable#rec System.Collections.Generic.IEnumerable.GetEnumerator System.Boolean#ret System.Collections.IEnumerator#rec System.Collections.IEnumerator.MoveNext System.Object#ret System.Collections.IEnumerator#rec System.Collections.IEnumerator.Current
+System.String.new System.Char[]#arg System.Int32#arg System.Int32#arg else
+if System.Int32#rec null.new if if
+java.lang.Thread.new System.Threading.Thread#ret java.lang.Runnable#arg System.TimeSpan#ret System.TimeSpan.new
+System.Int32#rec System.Int32.new System.Int32#ret System.Array#rec System.Array.Length System.IO.FileInfo#ret System.IO.FileInfo[]#rec System.IO.FileInfo[]#acc System.Int32#arg System.IO.File#rec System.IO.File.Exists System.Void#ret System.IO.Directory#rec System.IO.Directory.Delete
+if System.Int32#rec System.Void#ret System.Array#rec System.Array.Copy System.Int32[]#arg System.Int32#arg while if System.Single#ret System.Single[]#rec System.Single[]#acc System.Int32#arg
+System.Boolean.new if while System.Boolean.new while
+null.new System.Collections.IEnumerator#ret System.Collections.IEnumerable#rec System.Collections.IEnumerable.GetEnumerator System.Collections.IEnumerator.Current System.Boolean#ret System.Collections.IEnumerator#rec System.Collections.IEnumerator.MoveNext System.Object#ret System.Collections.IEnumerator#rec
+null.new System.Collections.ArrayList#ret System.Collections.ArrayList.new if System.Int32#ret System.Collections.ArrayList#rec System.Collections.ArrayList.Add
+null.new System.Collections.ArrayList#ret System.Collections.ArrayList.new System.Int32#ret System.Array#rec System.Array.Length System.String#ret System.String[]#rec System.String.new System.String[]#acc System.Int32#arg System.String.new System.Int32#ret System.Collections.ArrayList#rec System.Collections.ArrayList.Add System.String#arg
+System.String.new System.String.new if
+System.NotSupportedException#ret System.NotSupportedException.new
+System.Console#rec System.Console.Error System.String#ret System.Exception#rec System.Exception.StackTrace System.Int32#ret System.Collections.IList#rec System.Collections.IList.Add System.Exception#arg if
+System.Boolean.new System.Boolean.new if System.Boolean.new System.Boolean.new System.Int32#rec System.Int32.new for for while System.Boolean.new if while System.Boolean.new while if if System.Boolean.new
+System.Int32#rec
+System.Int32#rec System.Int32.new for for while if while System.Boolean.new while System.Boolean.new
+if System.Int32#rec
+java.lang.Throwable.getCause if if null.new System.String#ret System.Exception#rec System.Console#rec System.Console.Error System.String#ret System.Exception#rec System.Exception.StackTrace System.Int32#ret System.Collections.IList#rec System.Collections.IList.Add System.Exception#arg if
+System.TimeSpan#arg if
+null.new System.Collections.ArrayList#ret System.Int32.new System.Int32#ret System.Boolean#ret System.Int32#rec System.Int32.Equals System.Int32#arg
+java.util.BitSet[].new System.Boolean.new System.Int32#ret if System.Int32#rec System.Collections.BitArray#ret System.Collections.BitArray[]#rec System.Collections.BitArray[]#acc System.Int32#arg System.Int32#arg System.Random#rec System.Random.Next System.Int32#arg System.Collections.BitArray#ret
+else if System.Int32#rec System.Int32.new System.Int32#rec
+System.String[]#rec System.String[].new System.String.new System.String.new System.String[]#rec System.String[].new System.String.new System.String[]#rec System.String[].new System.String.new System.String[]#rec
+System.Int32#rec System.Int32.new System.Int32#rec
+System.Int64#arg System.Boolean#ret System.Object#ret null.new
+System.Int32.new System.Int32#ret System.Array#rec System.Array.Length System.String#ret System.String#ret System.String[]#rec System.String[]#rec System.String[]#acc System.Int32#arg for System.String[]#acc System.Int32#arg System.String#ret System.String[]#rec System.String[]#acc System.Int32#arg System.Boolean#ret System.String#rec System.String.Equals System.String#arg
+System.NotSupportedException#ret System.NotSupportedException.new
+java.util.Random.nextBytes System.Random#rec
+java.util.TimeZone#rec java.util.TimeZone#ret System.DateTime#ret System.DateTime#rec java.util.TimeZone#arg java.util.TimeZone#rec java.util.TimeZone.getTimeZone System.Int32.new System.Int32#rec System.Int32.new System.String#rec System.String.new java.util.TimeZone.setDefault System.Boolean#ret System.DateTime.Add System.TimeSpan#arg System.DateTime#arg System.DateTime#ret System.DateTime#rec System.DateTime.Add System.TimeSpan#arg java.util.TimeZone#arg java.util.TimeZone.setDefault java.util.TimeZone#rec System.String#rec System.String.Equals System.String#arg
+System.Void#ret System.Array#rec System.Array.Copy System.Int32[]#arg System.Int32#arg System.Int32.new System.Int32#rec System.Int32.new System.String#rec System.String.new System.TimeSpan#ret java.lang.Thread.setDaemon java.lang.Thread.setName System.TimeSpan#arg if
+if if System.Int32#ret
+System.Int32.new System.String#ret System.Object#ret System.Collections.ICollection#rec System.Collections.ICollection.SyncRoot System.Boolean#ret System.Collections.Generic.IDictionary#rec System.Char[]#arg System.Int32#arg System.Collections.Generic.IDictionary#rec System.Collections.Generic.IDictionary.ContainsKey System.Collections.Hashtable.Contains System.String#arg System.Boolean.new if System.Boolean#ret System.Text.Encoding.GetEncoding System.String#arg System.Byte[]#ret System.Text.Encoding#rec System.Text.Encoding.GetBytes System.String#arg if System.Void#ret System.String#rec System.Text.Encoding.GetEncoding System.String#arg System.Byte[]#ret System.Text.Encoding#rec System.Text.Encoding.GetBytes
+System.Array.Length System.Int32#ret System.Int32[]#rec System.Int32[]#acc System.Int32#arg
+else if System.Int32#ret System.Int32[]#rec System.Int32[]#acc if System.Int32#ret System.Char#ret System.Char[]#rec System.Char[]#acc System.Int32#arg System.Boolean.new
+System.Int32#rec System.Int32.new for for while System.Void#ret System.Threading.Thread#rec
+if if if System.Boolean.new System.Boolean.new
+System.Array.Length System.Int32#ret System.Int32[]#rec System.Int32[]#acc System.Int32#arg
+System.Int32.new
+System.Int32#arg System.Void#ret System.Array#rec System.Array.Copy System.Array.Copy System.Int32[]#arg System.Int32#arg System.Int32[]#arg System.Int32#arg
+System.Int32#rec
+System.Int32.new System.Int32#ret System.Collections.ArrayList#rec System.Int32#ret System.Collections.ArrayList.Count System.Int32#rec System.Int32.new System.Int32#ret System.Collections.ArrayList#rec System.Collections.ArrayList.Count System.Int32#arg System.Object#ret System.Collections.ArrayList#rec System.Collections.ArrayList#acc System.Int32#arg for
+System.Void#ret System.Array#rec System.Array.Copy System.Int32[]#arg System.Int32#arg
+System.Int32.new System.Int32#ret System.Int32[]#rec System.Int32[]#acc System.Int32#arg
+System.Int32#rec System.Int32.new for for while
+null.new System.Math.Abs System.Int32#ret System.Random#rec System.Random.Next System.Int32.new System.Int32#ret System.Math#rec System.Int32#arg System.Int32.new System.IO.IOException#ret System.IO.IOException.new System.String#arg
+if System.String#ret System.String.new System.Char[]#arg System.Int32#arg
+System.Collections.Hashtable#ret System.Collections.Hashtable.new System.Int32#rec System.Boolean#ret
+System.Int32#ret System.Math#rec System.Math.Min System.Int32#arg System.Int32#arg
+if System.Int32.new System.Int32#rec System.Int32.new System.String#rec System.String.new System.String.new System.String.new if System.String#arg if
+if if System.String#ret System.IO.Path#rec System.IO.Path.Combine System.String#arg System.Boolean#ret System.String#rec System.String.Equals System.String#arg System.Type#ret System.Type#rec System.Type.GetType System.String#arg System.Object#ret System.Activator#rec System.Activator.CreateInstance System.Type#arg System.Object#ret System.IO.IOException#ret System.IO.IOException.new System.String#arg System.IO.IOException#ret System.IO.IOException.new System.String#arg System.IO.IOException#ret System.IO.IOException.new System.String#arg System.IO.IOException#ret System.IO.IOException.new System.String#arg if if
+System.String[].new System.String.new System.String.new System.String[]#rec System.String[].new
+null.new
+if System.Int32#rec if System.Int32#rec System.Int32#rec
+if System.Int32#rec
+null.new System.Collections.Hashtable.new System.SystemException#ret System.SystemException.new System.Int32#arg for for System.Collections.Hashtable#ret System.String#arg throw if null.new System.Collections.Hashtable#ret System.String#arg System.Collections.Hashtable.new System.Object#ret System.Object[]#rec
+System.IO.StringReader#ret System.IO.StringReader.new System.String#arg
+if System.Int32#rec
+System.Boolean.new
+System.Boolean.new if for System.IO.FileInfo#ret System.IO.FileInfo.new System.IO.File#rec System.IO.File.Exists System.String#ret System.IO.FileSystemInfo#rec System.IO.FileSystemInfo.FullName System.Boolean#ret System.IO.Directory#rec System.IO.IOException#ret System.IO.IOException.new System.String#arg
+null.new
+System.Int32#rec System.Int32.new System.Int32#rec System.Int32#ret System.Array#rec System.Array.Length for null.new
+System.Boolean#ret
+System.Boolean#ret System.Boolean.new System.Void#ret System.Threading.Monitor#rec System.Threading.Monitor.PulseAll null.new throw System.Boolean.new System.Void#ret System.Threading.Monitor#rec System.Threading.Monitor.PulseAll throw System.Boolean.new System.Void#ret System.Threading.Monitor#rec System.Threading.Monitor.PulseAll System.Int32#arg if throw System.Boolean.new System.Void#ret System.Threading.Monitor#rec System.Threading.Monitor.PulseAll
+System.Collections.Hashtable#rec System.Boolean#ret java.util.HashMap.containsKey System.String#arg
+System.Int32#rec System.Int32.new System.Int32#rec
+null.new
+else System.Int32.new System.Boolean#ret System.Boolean[]#rec System.Boolean[]#acc System.Int32#arg System.Int32.new System.Int32.new else if System.Boolean#ret System.Boolean#ret System.Boolean[]#rec System.Boolean[]#acc System.Int32#arg System.Boolean.new
+System.String.new System.String.new System.String.new System.String[]#rec System.String[].new
+else if System.Int32#rec System.Int32.new System.Int32#rec
+System.Int32#rec System.Int32.new System.Int32#ret System.Collections.Generic.List#rec System.Collections.Generic.List.Count null.new System.Collections.IList#rec System.Collections.IList#acc System.Int32#arg if
+System.NotSupportedException#ret System.NotSupportedException.new
+System.Int32[]#rec System.Int32[]#acc System.Int32#arg while System.Int32#ret System.Void#ret System.Array#rec System.Array.Copy System.Int32[]#arg System.Int32#arg System.Int32.new System.Boolean.new if
+System.Int32#arg System.Int32.new null.new else if while null.new else if while System.Void#ret System.Array#rec System.Array.Copy System.Int32[]#arg System.Int32#arg System.Void#ret System.Array#rec System.Array.Copy System.Int32[]#arg System.Int32#arg null.new else if while
+null.new System.Boolean#ret System.String#rec System.String.Equals System.String#arg null.new else else if else if if
+System.Int32#rec System.Int32.new System.Int32#rec System.Int32.new System.Int32#rec System.Int32.new System.Int32#arg for
+if System.Int32#rec System.Int32#arg System.Int32#ret System.Collections.ArrayList#rec System.Collections.ArrayList.Add System.Object#arg
+null.new System.IO.Stream#arg System.Text.Encoding#arg System.Void#ret System.IO.TextWriter#rec System.IO.TextWriter.WriteLine System.String#arg System.Int32#rec System.Int32.new
+System.Int32#rec System.Int32.new System.Int32#rec
+if if
+else System.Int32#rec System.Int32.new for for while else if else System.Int64[]#acc System.Int32#arg System.Int64.new for if System.Void#ret System.Array#rec System.Array.Copy System.Int32[]#arg System.Int32#arg if System.Boolean.new if for System.Void#ret System.Boolean.new System.Int32.new System.Int32#ret System.Int32.new System.Boolean.new if System.Boolean.new if System.Boolean#ret
+if System.Boolean.new while if
+System.String.new if else if
+System.Boolean.new null.new if System.Object[]#rec System.Object[].new
+null.new System.String.new System.String.new if
+System.Diagnostics.StackTrace#ret System.Diagnostics.StackTrace.new System.Diagnostics.StackFrame[]#ret System.Diagnostics.StackFrame[]#acc System.Diagnostics.StackTrace#rec System.Diagnostics.StackTrace.GetFrames System.String.new System.Reflection.MethodBase#ret System.Diagnostics.StackFrame#rec System.String#ret System.Reflection.MemberInfo#rec System.Reflection.MemberInfo.Name System.Diagnostics.StackFrame[]#acc System.String.Equals System.String#arg System.String.new System.Diagnostics.StackFrame#ret System.Diagnostics.StackFrame[]#rec System.String#rec System.String#ret System.Reflection.MemberInfo#rec System.Reflection.MemberInfo.Name System.Int32.new System.Int32#rec System.Int32.new System.String#rec System.String.new System.String#arg throw System.Boolean.new System.IO.IOException#ret System.IO.IOException.new
+if if if System.Boolean.new System.Boolean.new
+else if if else if
+null.new
+System.Int32#rec System.Int32.new System.Int32#arg System.Int32#arg System.Void#ret System.Array#rec System.Array.Copy System.Int32[]#arg System.Int32#arg System.Int32#arg System.Int32#arg System.Void#ret System.Array#rec System.Array.Copy System.Int32[]#arg System.Int32#arg System.Int32#arg System.Int32#arg System.Int32#rec System.Int32.new System.Int32.new
+System.Boolean.new if if if System.Boolean.new System.String#ret System.String#rec System.String.Intern System.Int32.new for for while System.Int32#rec null.new if System.Int64#ret System.Int64[]#rec System.Int64[]#acc System.Int32#arg System.Int32#ret if System.Int32#rec if System.Int64#ret System.Int64[]#rec System.Int64[]#acc System.Int32#arg System.Int32#arg if if System.Array#rec System.Array.Sort System.Int32[]#arg System.Int32#arg System.Int32#arg System.Int32#rec System.Int32.new System.Int32#rec
+if if if System.Boolean.new System.Boolean.new
+System.Int32#arg System.Int32#ret System.Int32[]#rec System.Int32[]#acc System.Int32#arg
+System.String#ret System.Convert#rec System.Convert.ToString System.Int32#arg
+null.new
+System.Int32.new
+System.Void#ret System.Collections.Hashtable#rec System.Collections.Hashtable.Remove System.String#arg
+System.Collections.Generic.List#rec System.Collections.Generic.List.GetEnumerator
+System.Int32#ret System.String#rec System.String.Length System.Int32#ret System.String#rec System.String.Length
+System.Int32.new System.Int32#ret System.Array#rec System.Array.Length System.String.new null.new System.Array.Length System.Int32#ret System.Int32[]#rec System.Int32[]#acc System.Int32#arg
+if if null.new if else if else if System.String#arg null.new System.Text.Encoding#ret System.Text.Encoding#rec System.Text.Encoding.UTF8
+System.Int32.new System.String[].new System.String.new System.String.new System.String[]#rec System.String[].new System.String.new System.String.new System.String.new System.String.new System.String[]#rec null.new System.Int32#arg System.Int32#arg
+System.Int32.new System.Collections.Hashtable#ret System.Collections.Hashtable.new System.Collections.Hashtable#ret System.Collections.Hashtable.new System.Boolean#ret System.String#arg System.String#ret System.Collections.Generic.IDictionary#rec System.Collections.Generic.IDictionary#acc System.String#arg System.Collections.Hashtable#rec System.Collections.Hashtable.Add System.IO.StringReader.new System.String#arg System.String#arg System.IO.StringReader#ret System.String#arg System.String#arg null.new null.new for
+if if System.Boolean#ret System.Object#rec System.Object.Equals System.Collections.ArrayList#arg System.Boolean.new
+System.Collections.ArrayList#rec System.Collections.ArrayList.Synchronized System.Collections.ArrayList#arg null#rec null.new
+null.new
+System.String#ret System.String[]#rec System.String[]#acc System.Int32#arg
+System.Int32.new System.Int32.new System.Int64.new System.Int64.new System.Int64#arg System.Int32[]#rec System.Int32[]#acc System.Int32#arg
+System.Void#ret System.Collections.IDictionary#rec System.Collections.IDictionary.Remove System.String#arg
+System.Int64#ret System.Int64[]#rec System.Int64[]#acc System.Int32#arg
+System.Int32#ret System.String#rec System.String.Length
+if System.Boolean#ret System.Collections.IDictionary#rec System.Collections.IDictionary.Contains System.Collections.ICollection.SyncRoot System.Object#ret System.Collections.IDictionary#rec System.Collections.IDictionary#acc System.Object#arg System.String#arg System.Object[]#acc null.new System.Object#ret System.Collections.IDictionary#rec System.Collections.IDictionary#acc
+null.new
+System.Int32.new null.new System.String[].new System.String.new System.String.new System.String[]#rec System.String[].new System.String.new System.String.new System.String.new System.String.new System.String[]#rec System.Int32#arg
+System.Text.StringBuilder#ret System.Text.StringBuilder.new System.Text.StringBuilder#rec System.String.new System.String.new System.String.new System.Text.StringBuilder#ret System.Text.StringBuilder.Append System.String#arg System.String#arg System.Text.StringBuilder#ret System.Text.StringBuilder#rec System.Text.StringBuilder.Append System.String#arg System.String.new System.String.new System.String.new System.Text.StringBuilder#ret System.Text.StringBuilder.ToString System.Text.StringBuilder#rec System.Text.StringBuilder.Append System.String#arg System.String#ret System.Text.StringBuilder#rec
+java.lang.String.equalsIgnoreCase System.Int32#arg null.new System.Boolean#ret System.String#rec java.lang.String.equalsIgnoreCase System.String#arg System.String#arg System.Boolean.new System.Boolean#ret System.String#rec java.lang.String.equalsIgnoreCase System.String#rec java.lang.String.equalsIgnoreCase System.String#arg System.Boolean.new System.Boolean#ret System.String#rec System.String#arg System.Int32#ret System.Int32#ret System.Int32.new System.String.new System.String.new if else if System.Void#ret System.Array#rec System.Array.Copy System.Int32[]#arg System.Int32#arg else
+null.new
+System.ArgumentException#ret System.ArgumentException.new System.String#arg throw if System.Object#ret System.Collections.IDictionary#rec System.Collections.IDictionary#acc System.String#arg null.new
+else if if else if
+System.Char[]#arg System.Boolean.new else if else if System.String#arg System.Text.Encoding#rec System.Text.Encoding.UTF8 System.String#ret System.String.new System.Char[]#arg System.String#arg null.new System.Text.Encoding#ret System.Text.Encoding#rec System.Text.Encoding.UTF8
+if if if System.Boolean.new System.Boolean.new
+System.Int64.new if System.Int32#ret System.String#rec System.String.CompareOrdinal System.String#arg System.String#arg
+System.Boolean#ret
+System.Int32#rec System.String[]#rec System.String#ret System.String[]#rec System.String[]#acc System.Int32#arg System.String#ret System.Void#ret System.Array#rec System.Array.Copy System.Int32[]#arg System.Int32#arg System.String[]#acc System.Int32#arg System.String#ret System.String[]#rec System.String[]#acc System.Int32#ret System.String#ret System.String[]#rec
+System.NotSupportedException#ret System.NotSupportedException.new System.String#arg throw
+System.Void#ret System.Array#rec System.Array.Copy System.Int32[]#arg System.Int32#arg
+System.Collections.Hashtable#ret System.Collections.IDictionary#rec System.Collections.Hashtable.new System.Object#ret System.Collections.ArrayList#rec System.Collections.ArrayList#acc System.Int32#arg System.Object#ret System.Void#ret System.Collections.ArrayList#rec System.Collections.ArrayList.Insert System.Collections.Hashtable#acc System.Object#ret System.Collections.Hashtable#rec System.Collections.Hashtable#acc
+System.Text.StringBuilder#ret System.Text.StringBuilder.new System.Text.StringBuilder#rec System.String.new System.String.new System.String.new System.Text.StringBuilder#ret System.Text.StringBuilder.Append System.String#arg System.String#ret System.Text.StringBuilder#rec System.Text.StringBuilder.ToString
+else if if else if
+null#rec
+System.String[]#rec System.String[].new System.String#arg System.String.new System.String.new System.String[]#rec System.String[].new
+System.Int32.new System.Int64#ret System.Int64[]#rec System.Int64[]#acc System.Int32#arg
+if System.Int32#rec System.Object#ret System.Collections.Hashtable#rec System.Collections.Hashtable#acc System.String#arg null.new if else if System.Int32#rec System.Int32.new System.Int32#rec
+null.new
+System.Int32.new if System.Int32#ret System.String#rec System.String.Length System.String.Length System.Int32#ret System.String#rec System.String.Length System.Int32#ret System.String#rec System.String#rec System.String.Substring System.Byte[]#arg System.Int32#ret System.String#rec System.String.Length System.Int32#arg System.Boolean#ret System.String#rec System.String.Equals System.String#arg
+System.Int32#ret System.Random#rec System.Random.Next System.Int32.new System.Int32#ret System.Math#rec System.Math.Abs System.Int32#arg System.Int32#ret System.Collections.ArrayList#rec System.Collections.ArrayList.Add System.Int32[]#arg
+if while System.Boolean.new while System.Boolean.new System.Boolean.new if while System.Boolean.new while
+System.Int64#ret System.IO.MemoryStream#rec System.IO.MemoryStream.Position
+System.Void#ret System.Array#rec System.Array.Copy System.Int32[]#arg System.Int32#arg System.Console#rec System.Console.Error System.String#ret System.Exception#rec System.Exception.StackTrace System.Int32#rec System.Int32.new
+System.String.new System.String.new System.String.new System.String.new System.String.new System.ArgumentException#ret System.ArgumentException.new System.String#arg throw else
+java.nio.ByteBuffer[].new java.nio.ByteBuffer[]#ret if System.Int32#rec System.IO.MemoryStream#ret System.IO.MemoryStream[]#rec System.IO.MemoryStream#ret System.IO.MemoryStream[]#rec System.IO.MemoryStream[]#acc System.Int32#arg System.Int64#ret System.IO.MemoryStream[]#acc System.Int32#arg System.Int32#ret System.Array#rec System.Array.Length System.IO.MemoryStream[]#rec System.IO.MemoryStream[].new System.Int32#arg System.IO.IOException#arg throw
+null#rec
+System.Int32.new System.Int32#ret System.Random#rec System.Random.Next System.Int32#arg System.Text.StringBuilder#ret System.Int32.new System.Int32#ret System.Random#rec System.Random.Next System.Int32#arg System.Text.StringBuilder.new System.String#arg System.Int32#ret System.Text.StringBuilder#rec System.Int32#ret System.Text.StringBuilder.Length System.Text.StringBuilder#ret System.Text.StringBuilder#rec System.Text.StringBuilder.Append System.Char#arg System.String[]#acc System.Random#rec System.Random.Next System.Int32#arg System.String#ret System.String[]#rec System.Text.StringBuilder#ret System.Int32#arg System.Text.StringBuilder#ret System.Text.StringBuilder#rec System.Text.StringBuilder.Append System.String#arg System.Text.StringBuilder.ToString System.Text.StringBuilder#rec System.Text.StringBuilder.Append System.String#arg System.String#ret System.Text.StringBuilder#rec
+System.Object#ret System.Collections.IDictionary#rec System.Collections.IDictionary#acc System.Int32#rec System.Int32.new System.String#rec System.String.new System.Int32.new System.Boolean.new
+else if if else if
+System.Int32.new for System.Byte#ret
+System.Text.StringBuilder#ret System.Text.StringBuilder.new System.Int32#ret System.Text.StringBuilder#ret System.Text.StringBuilder#rec System.Text.StringBuilder.Append System.Collections.ArrayList#rec System.Collections.ArrayList.Count System.Object#ret System.Collections.ArrayList#rec System.Collections.ArrayList#acc System.Int32#arg System.Text.StringBuilder#ret System.Text.StringBuilder#rec System.Text.StringBuilder.Append if for System.Int32#ret System.Collections.ArrayList#rec System.Collections.ArrayList.Count System.Text.StringBuilder#rec System.String.new System.String.new System.String.new System.Text.StringBuilder#ret System.Text.StringBuilder.Append System.String#arg System.String#ret System.Text.StringBuilder#rec System.Text.StringBuilder.ToString
+System.Int32.new System.Int32#ret System.Int32[]#rec System.Int32[]#acc System.Int32#arg
+java.util.SortedMap#rec System.Collections.IDictionaryEnumerator#ret java.util.SortedMap.entrySet System.Collections.Hashtable.new System.Collections.IDictionaryEnumerator#ret System.Collections.Hashtable#rec System.Collections.Hashtable.GetEnumerator System.Boolean#ret System.Collections.IEnumerator#rec System.Collections.IEnumerator.MoveNext System.Object#ret System.Collections.IEnumerator#rec System.Collections.IEnumerator.Current System.Collections.Generic.KeyValuePair.Value System.Object#ret System.Collections.Generic.KeyValuePair#rec System.Collections.Generic.KeyValuePair.Key System.Object#ret System.Collections.Generic.KeyValuePair#rec
+null.new System.Collections.Hashtable#ret null.new System.Collections.ICollection.SyncRoot System.Object#ret System.Object[]#rec System.Object[]#acc null.new System.Object#ret System.Collections.Hashtable#rec System.Collections.Hashtable#acc
+System.Int32.new System.Int32#rec System.Int32.new System.String#rec System.String.new System.Int64#ret System.Double#ret System.Math#rec else if while System.Math.Log System.Int32#arg System.Int32#rec System.Int32.new null.new System.Int32#arg System.Double#ret System.Math#rec System.Math.Log System.Int32#rec System.Int32.new for for while System.Int32.new System.Double#ret System.Math#rec System.Math.Log System.Double#arg null.new System.Single#ret System.Single[]#rec System.Single[]#acc System.Int32#arg System.Array.Length System.Single#ret System.Single[]#rec System.Single[]#acc System.Int32#arg while System.Boolean.new if while System.Boolean.new null.new null.new System.Int32#rec System.Int32.new System.Int32#rec System.Int32#arg System.Int32#rec System.Int32.new while null.new System.String.new else
+if if if System.Int32#ret System.String#rec System.String.Length System.Boolean#rec
+System.Int32.new System.Int32#rec System.Int32.new System.String#rec System.String.new System.Array.Length System.Int32.new System.String.new System.String.new throw
+System.String#ret System.Int32.new System.Int32#rec System.Int32.new System.String#rec System.String.new System.Char.ToString System.String.new System.IO.FileInfo#ret System.IO.FileInfo.new System.String#arg
+System.String.new null.new System.Byte#ret System.Byte[]#rec System.Byte[]#acc null.new System.Void#ret System.Array#rec System.Array.Copy System.Int32[]#arg System.Int32#arg System.Single.new System.String.new System.String.new System.String.new System.Single.new
+System.IO.MemoryStream#rec System.IO.MemoryStream.Read System.IO.SeekOrigin#rec System.IO.SeekOrigin.Begin System.Int64#ret System.IO.MemoryStream#rec System.IO.MemoryStream.Seek System.IO.MemoryStream[]#acc System.Int32#arg System.IO.SeekOrigin#ret System.Int32#arg System.Int32#ret System.Int32[]#rec System.Int32[]#acc System.Int32#arg
+System.Int32#ret
+System.Void#ret System.Array#rec System.Array.Copy System.Int32[]#arg System.Int32#arg while System.Int32.new null.new System.Int32.new System.String.new System.String.new System.Int32.new null.new System.Int32.new System.String.new System.String.new if System.Single#ret System.Single[]#rec System.Single[]#acc System.Int32#arg System.Single#ret System.Single[]#rec System.Single[]#acc System.Int32#arg System.Single#ret System.Int32.new null.new System.Int32.new System.String.new System.String.new System.Int32#arg System.Single#ret System.Single[]#rec System.Single[]#acc System.Int32#arg
+System.SystemException#ret System.SystemException.new System.String#arg
+System.Boolean.new
+System.Int32.new System.Int32#ret System.Int32[]#rec System.Int32[]#acc System.Int32#arg System.Int32#ret System.Array#rec System.Array.Length System.Void#ret System.Array#rec System.Array.Copy System.Int32[]#arg System.Int32#arg System.Int32#ret System.Array#rec System.Array.Length System.Int32.new System.Int32#ret System.Int32[]#rec System.Int32[]#acc System.Int32#arg System.Int32#arg System.Int32#ret System.Int32[]#rec System.Int32[]#acc System.Int32#arg System.Text.StringBuilder#rec System.Text.StringBuilder#ret System.Text.StringBuilder.new System.Text.StringBuilder#ret System.Text.StringBuilder#rec System.Text.StringBuilder.Append System.String#arg System.Text.StringBuilder#rec System.Text.StringBuilder.Append System.String#arg System.Text.StringBuilder.Append System.String#arg System.Text.StringBuilder.ToString System.Text.StringBuilder#rec System.Text.StringBuilder.Append System.String#arg System.String#ret System.Text.StringBuilder#rec
+System.Boolean.new
+System.String.new System.String.new System.String[]#rec System.String[].new
+System.Int32#ret System.Collections.ArrayList#rec System.Collections.ArrayList.Count if System.Int32#rec System.Collections.Generic.List#rec System.Collections.Generic.List#acc System.Int32#arg for for
+if System.Int32#rec System.Int32.new System.String#ret System.Convert#rec System.Convert.ToString System.Int32#arg
+null.new else
+null#rec null.new null.new null.new null.new
+null.new null.new System.IO.FileNotFoundException#ret System.IO.FileNotFoundException.new System.String#arg throw if System.Boolean#ret System.Collections.IDictionary#rec System.Collections.IDictionary.Contains System.String#arg System.Object#ret System.Collections.IDictionary#rec System.Collections.IDictionary#acc System.String#arg System.Int32#arg System.Int32#ret System.Int32#rec System.Int32.MinValue System.Int32#rec System.Int32.new System.Object#ret System.Collections.Hashtable#rec System.Collections.Hashtable#acc System.Int32#arg if System.Object#ret System.Collections.Hashtable#rec System.Collections.Hashtable#acc
+if System.Int32#rec
+null.new System.Boolean.new if if if System.Boolean.new System.Boolean.new if while System.Boolean.new while System.Boolean.new System.Int32.new if System.Int32.new System.Boolean.new System.Boolean.new null.new if System.Boolean.new System.Boolean.new if while
+for System.Int32#rec System.Void#ret System.Array#rec System.Array.Copy System.Int32[]#arg System.Int32#arg System.Text.Encoding#rec System.Text.Encoding.UTF8 System.String#ret System.String.new System.Char[]#arg System.Int32.new for System.Byte#ret System.Int32#arg System.Byte[]#ret System.Text.Encoding#rec System.Text.Encoding.GetBytes System.String#arg System.Int32.new System.Char#ret System.Char[]#rec System.Char[]#acc System.Int32#arg
+System.Int32.new System.Int32.new System.Int32.new System.String#rec System.String.new
+System.Boolean#ret System.Collections.IDictionary#rec System.Collections.IDictionary.Contains System.String#arg
+System.Int32.new System.Int32#ret System.Array#rec System.Array.Length System.String.new System.String#ret System.String#ret System.String#ret System.Int32.new System.Int32.new else System.String#ret System.Globalization.CompareInfo#arg System.Boolean.new if
+null.new System.String.new else System.String#arg System.String.IndexOf System.String#arg System.Int32.new System.Boolean.new else System.String#arg System.Collections.Generic.List#ret System.Collections.Generic.List.new System.Void#ret System.Collections.Generic.List#rec System.Collections.Generic.List.Add
+System.Boolean.new System.Boolean.new if while System.Boolean.new System.Int32#rec System.Int32.new for for while if System.Boolean.new System.Boolean.new if System.Boolean.new
+null.new null.new if if
+System.Void#ret System.Array#rec System.Array.Copy System.Int32[]#arg System.Int32#arg
+System.Console.Out System.String.new System.Void#ret System.IO.TextWriter#rec System.IO.TextWriter.WriteLine System.Int32.new System.String.new System.String.new System.Int32#ret System.String#arg System.Collections.IEnumerator#ret System.Collections.Generic.ICollection#rec System.Collections.Generic.ICollection.Count System.Void#ret System.Console#rec System.Console.WriteLine System.Collections.IEnumerator.MoveNext System.Collections.Generic.IEnumerable#rec System.Collections.Generic.IEnumerable.GetEnumerator System.Boolean#ret System.Collections.IEnumerator#rec System.Char[]#rec System.Char[].new System.String#ret System.String.new System.Char[]#arg System.Object#ret System.Collections.IEnumerator#rec System.Collections.IEnumerator.Current System.Int32.new System.Int32#ret System.Int32[]#rec System.Int32[]#acc System.Int32#arg System.Int32#arg for System.Void#ret System.Console#rec System.Console.WriteLine null.new System.Int32#ret System.Collections.Generic.ICollection#rec System.Collections.Generic.ICollection.Count else
+null.new null.new System.Boolean.new if System.Boolean#ret
+null.new
+System.IO.FileInfo#ret System.IO.FileInfo.new System.String#arg
+System.Object#ret System.Boolean.new else if while System.Boolean.new System.Void#ret System.Array#rec System.Array.Copy System.Int32[]#arg System.Int32#arg System.Array#rec System.Array.Length System.Int32#ret System.Int32[]#rec System.Int32[]#acc System.Object#ret System.Collections.Hashtable#rec System.Collections.Hashtable#acc
+System.String#ret System.Object#rec System.Object.ToString
+System.String#ret System.Int32.new System.Int32#rec System.Int32.new System.String#rec System.String.new System.Char.ToString System.String.new System.IO.FileInfo#ret System.IO.FileInfo.new System.String#arg
+null.new System.String.new
+System.Int32.new for System.Int32.new System.Int32.new System.Int32.new System.Boolean#ret
+System.Int32.new System.Int32#ret System.Array#rec System.Array.Length System.String.new
+System.Diagnostics.StackTrace#ret System.Diagnostics.StackTrace.new System.Diagnostics.StackFrame[]#ret System.Diagnostics.StackFrame[]#acc System.Diagnostics.StackTrace#rec System.Diagnostics.StackTrace.GetFrames System.String.new System.Reflection.MethodBase#ret System.Diagnostics.StackFrame#rec System.Int32#arg System.Diagnostics.StackFrame[]#acc System.String.Equals System.String#arg System.String.new System.Diagnostics.StackFrame#ret System.Diagnostics.StackFrame[]#rec System.String#ret System.Reflection.MemberInfo#rec System.Reflection.MemberInfo.Name System.Int32.new System.Int32#rec System.Int32.new System.String#rec System.String.new System.IO.IOException#ret System.IO.IOException.new
+System.Int32#ret System.String[]#arg System.Int32.new if System.Array#ret System.Collections.ArrayList#rec System.Collections.ArrayList.ToArray
+System.Text.StringBuilder#rec if for null.new if System.Char#ret System.Void#ret System.Array#rec System.Array.Copy System.Int32[]#arg System.Int32#arg System.Text.StringBuilder#acc System.Int32#arg System.Char#ret System.String#rec System.String#acc
+System.TimeSpan#arg if System.IO.FileInfo#ret System.IO.FileInfo.new System.String#arg
+System.Collections.Generic.IEnumerator#ret System.Collections.Generic.IEnumerable#rec System.Collections.Generic.IEnumerable.GetEnumerator System.Boolean#ret System.Int32#rec System.Int32.new for for while System.Collections.IEnumerator#rec System.Collections.IEnumerator.MoveNext System.Object#ret System.Collections.IEnumerator#rec System.Collections.IEnumerator.Current System.Boolean#ret System.Collections.Hashtable#rec System.Collections.Hashtable.Contains System.String#arg null.new System.Boolean#ret System.Threading.Monitor#rec System.Threading.Monitor.Wait System.Collections.Generic.ICollection#rec System.Collections.Generic.ICollection.Contains System.String#arg
+System.Int32.new System.Int32#ret System.Collections.ArrayList#rec System.Collections.ArrayList.Count System.Array#ret System.Collections.ArrayList#rec System.Collections.ArrayList.ToArray System.Type#arg
+if System.Int32#rec System.Int32#ret System.Array#rec System.Array.Length System.Int32#arg System.Single#ret System.Single[]#rec System.Single[]#acc System.Int32#arg
+if System.Int32#rec System.Int32.new System.String#ret System.String[]#rec System.String[]#acc System.Int32#arg
+System.String#ret if System.Int32#rec System.Int32.new System.Int32#ret System.Array#rec System.Array.Length System.String#ret System.Int32.new System.Int32#ret System.Array#rec System.Array.Length System.String#ret
+System.String#ret System.Int32.new System.Int32#rec System.Int32.new System.String#rec System.String.new System.Char.ToString System.String.new System.IO.FileInfo#ret System.IO.FileInfo.new System.String#arg System.IO.FileSystemInfo#rec System.IO.FileSystemInfo.FullName System.Boolean#ret System.IO.File#rec System.IO.File.Exists
+System.Int32#ret null.new System.Int32#rec System.Int32#arg System.Int32#ret System.Int32[]#rec System.Int32[]#acc System.Int32#arg
+System.Int32#rec System.Int32.new System.Int32#ret System.Random#rec System.Random.Next System.String#ret System.Convert#rec System.Convert.ToString System.Int32#arg for
+null.new System.IO.IOException#ret System.IO.IOException.new System.String#arg System.Int32#ret System.Random#rec System.Random.Next
+if for System.IO.FileInfo#ret System.IO.FileInfo.new System.String#arg System.IO.FileSystemInfo#rec System.IO.FileSystemInfo.FullName System.String[]#ret System.IO.Directory#rec System.IO.Directory.GetFileSystemEntries System.Array.Length System.String#ret System.String[]#rec System.String[]#acc System.Int32#arg System.String#arg System.String#arg System.IO.FileInfo#ret System.IO.FileInfo.new System.IO.Directory#rec System.IO.Directory.Delete
+null.new
+System.DateTime#ret System.DateTime#rec System.DateTime.Now System.Void#ret System.Threading.Thread#rec System.IO.TextWriter#ret System.Console#rec System.Console.Out System.Threading.Thread#ret System.Threading.Thread#rec else if System.TimeSpan#ret System.TimeSpan#rec System.TimeSpan.FromMilliseconds System.Console#rec System.Console.Error System.String#ret System.Exception#rec System.Exception.StackTrace
+null.new System.Int32#arg System.Int32.new System.String.new System.String.new throw if System.Byte#ret
+System.ArgumentException#ret System.ArgumentException.new System.String#arg throw else
+System.IO.StringReader#ret System.IO.StringReader.new System.Int32#arg for System.Void#ret System.Console#rec System.Console.WriteLine System.String.new System.Void#ret System.IO.TextWriter#rec System.IO.TextWriter.WriteLine System.String#arg
+null.new
+System.String#arg throw System.Boolean.new System.IO.IOException#ret System.IO.IOException.new System.String.new if else if if System.IO.IOException#ret System.IO.IOException.new System.String#arg
+System.Int32.new System.Int32#rec System.Int32.new System.String#rec System.String.new
+else if System.Int32#rec System.Int32.new System.Int32#rec
+System.Collections.ArrayList#ret System.Collections.ArrayList.new System.Int32#arg System.Int32#arg System.Int32.new System.Object#ret System.Object[]#rec System.Object[]#acc System.Int32#arg System.Int32#ret System.Collections.ArrayList#rec System.Collections.ArrayList.Add System.Object#arg while System.Int32#ret System.Collections.ArrayList#rec System.Collections.ArrayList.Count System.String[]#arg System.String[]#rec System.String[].new System.Array#ret System.Collections.ArrayList#rec System.Collections.ArrayList.ToArray
+System.String.new System.String.new System.String.new System.String[]#rec System.String[].new System.Int32#arg System.Int32#arg System.Int32#arg System.Int32#arg
+if System.Int32#rec System.Int64#rec System.Int64.MaxValue System.Int32.new System.Int32.new for
+else if if else if null.new if if
+System.String[]#rec System.String[].new System.Array.Length System.String#ret System.String[]#rec System.String[]#acc System.Int32#arg
+if
+if System.Int32#rec
+null.new System.Int32#ret System.Random#rec System.Random.Next
+System.NotSupportedException#ret System.NotSupportedException.new
+else if if else if
+System.TimeSpan#arg if
+java.lang.Throwable.getCause if if null.new System.String#ret System.Exception#rec System.Int32#rec
+System.Int32.new System.Int32#ret System.Array#rec System.Array.Length System.String.new
+System.Object#ret System.Collections.IDictionary#rec System.Collections.IDictionary#acc System.String#arg
+System.Boolean.new if while System.Boolean.new while
+System.Int32#ret if System.String#rec System.String.Length System.Int32#ret System.String#rec System.String.Length System.String#ret System.String#rec System.String.Substring System.Int32#arg System.Int32#arg
+else if if else if
+System.Array.Length System.Int64#ret System.Int64[]#rec System.Int64[]#acc System.Int32#arg
+System.Array.Length System.Char[]#rec System.Char[].new System.Int32[]#rec System.Int32[].new
+System.Int32.new System.Int32.new if System.Boolean.new System.Boolean.new System.Int32#rec System.Int32.new for for while if if if if System.Boolean.new System.Int32#rec System.Int32.new for for while if if if if System.Boolean.new
+if System.Int32#rec null#rec
+java.lang.Character.isWhitespace System.Char#arg System.Boolean#ret System.Char#rec
+if System.Int32#rec System.Int32#ret System.Int32.new System.Int32#ret System.Random#rec System.Random.Next System.Int32#arg System.Collections.BitArray.new System.Int32#arg System.Random#rec System.Random.Next System.Int32#arg System.Collections.BitArray#ret null.new System.Int32.new System.Int32#ret System.Random#rec System.Random.Next System.Int32#arg System.Int32.new System.Int32.new System.Int32#ret System.Collections.BitArray#rec System.Boolean#ret System.Collections.BitArray#rec System.Collections.BitArray.Get System.Int32#arg System.Collections.BitArray.Count if System.Void#ret System.Collections.BitArray#rec System.Collections.BitArray.Set System.Int32#arg System.String.new System.Void#ret System.IO.TextWriter#rec System.IO.TextWriter.WriteLine System.String#arg
+System.NotSupportedException#ret System.NotSupportedException.new
+java.util.TreeMap#ret System.Int32.new System.Int32#rec System.Int32.new System.String#rec System.String.new java.util.TreeMap.new System.Int32#rec System.Int32.new throw if else if System.Int32#ret System.Int32.new System.Int32#rec System.Int32.new System.String#rec System.String.new System.Object#ret System.Collections.Hashtable#rec System.Collections.Hashtable#acc System.String#ret System.IO.Path#rec System.IO.Path.Combine System.String#arg System.String#arg System.Int32#rec System.Int32.new if System.Boolean#ret System.Collections.IDictionary#rec System.Collections.IDictionary.Contains System.String#arg System.String#arg System.Boolean#ret System.Collections.Generic.Dictionary#rec System.Collections.Generic.Dictionary.ContainsKey System.String#arg System.Void#ret System.Collections.IDictionary#rec System.Collections.IDictionary.Remove System.Object#arg System.String.new System.String.new System.Int32#ret System.Collections.ICollection#rec System.Collections.ICollection.Count System.Int32.new System.Int32#rec System.Int32.new System.String#rec System.String.new System.String.new System.String.new System.Int32#ret System.Collections.ICollection#rec System.Collections.ICollection.Count while System.Int32#ret System.Collections.ICollection#rec System.Collections.ICollection.Count
+System.String#arg System.String#arg System.IO.FileInfo#ret System.IO.FileInfo.new
+for System.Int32#rec System.Int32.new for else System.Int32#ret System.Collections.ArrayList#rec System.Collections.ArrayList.Count System.Object#ret System.Collections.ArrayList#rec if System.Int32#rec System.Collections.ArrayList#acc System.Int32#arg System.Double#arg if System.Int32.new System.Int32.new System.Byte#ret
+System.Int64[]#acc System.Int32#arg System.Int64.new for if System.Int32#ret else System.Int32.new System.Int32#ret System.Int64[]#acc System.Int32#arg System.Int64.new for if
+if if System.Int64#ret System.Int64#rec System.Int64.MaxValue System.Int32.new
+System.Char[]#ret System.String#rec System.String.ToCharArray
+System.Int32#arg
+null.new System.SystemException#ret System.SystemException.new System.String#arg throw
+if System.Int32#rec System.Int32.new System.String#ret System.String[]#rec System.String[]#acc System.Int32#arg
+System.Int32.new System.Int32.new System.Int32.new System.Collections.BitArray#ret System.Collections.BitArray.new if System.Int32#rec System.Int32.new System.Int32#ret if System.Void#ret System.Collections.BitArray#rec System.Collections.BitArray.Set System.Int32#arg
+null.new
+System.NotSupportedException#ret System.NotSupportedException.new System.String#arg throw
+java.util.SortedMap.entrySet System.Collections.IDictionaryEnumerator#ret java.util.SortedMap#rec System.Int32.new System.Collections.ArrayList#ret System.Collections.ArrayList#rec System.Collections.ArrayList.Synchronized System.Collections.Hashtable.new System.Collections.IDictionaryEnumerator#ret System.Collections.Hashtable#rec System.Collections.Hashtable.GetEnumerator System.Boolean#ret System.Object#ret System.Collections.IEnumerator#rec System.Collections.IEnumerator.MoveNext System.Object#ret System.Collections.IEnumerator#rec System.Collections.IEnumerator.Current null.new System.Collections.Generic.KeyValuePair#rec System.Collections.Generic.KeyValuePair.Key System.Object#ret System.Collections.Generic.KeyValuePair#rec System.Collections.Generic.KeyValuePair.Value System.Int32#ret System.Collections.ArrayList#rec System.Collections.ArrayList.Add System.Object#arg while System.Int32#ret System.Collections.ArrayList#rec System.Collections.ArrayList.Count System.Array#ret System.Collections.ArrayList#rec System.Collections.ArrayList.ToArray System.Type#arg
